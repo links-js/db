@@ -1,0 +1,84 @@
+links:
+  - name: Go
+    tags: [development, platform, go]
+    url: https://golang.org/dl/
+
+  - name: Erlang
+    tags: [development, platform, erlang]
+    url: http://www.erlang.org/download.html
+
+  - name: Elixir
+    tags: [development, platform, erlang]
+    url: http://elixir-lang.org/install.html
+
+  - name: SQLite
+    tags: [development, platform, sqlite]
+    url: https://www.sqlite.org/download.html
+
+  - name: PyPy
+    tags: [development, platform, python]
+    url: http://pypy.org/download.html
+
+  - name: Nuitka
+    tags: [development, platform, python]
+    url: http://nuitka.net/pages/download.html
+
+  - name: Anki
+    tags: [utils]
+    url: http://ankisrs.net/#download
+
+  - name: ArchLinux
+    tags: [system, linux]
+    url: http://mirror.rackspace.com/archlinux/iso/
+
+  - name: VLC
+    tags: [multimedia, video, player]
+    url: http://download.videolan.org/pub/videolan/vlc/
+
+  - name: hubiC
+    tags: [internet, cloud]
+    url: https://hubic.com/en/downloads
+
+  - name: 7-Zip
+    tags: [utils, zip]
+    url: http://www.7-zip.org/download.html
+
+  - name: VirtualBox
+    tags: [system, virtual-machine]
+    url: https://www.virtualbox.org/wiki/Downloads
+
+  - name: Vagrant
+    tags: [system, virtual-machine]
+    url: https://www.vagrantup.com/downloads.html
+
+  - name: Serviio
+    tags: [multimedia, server]
+    url: http://serviio.org/download
+
+  - name: Wireshark
+    tags: [development, tools, packet]
+    url: https://www.wireshark.org/download.html
+
+  - name: Node.js
+    tags: [development, platform, nodejs]
+    url: https://nodejs.org/download/release/latest/
+
+  - name: Mumble
+    tags: [internet, voip]
+    url: http://www.mumble.com/mumble-download.php
+
+  - name: MusicBrainz Picard
+    tags: [multimedia, audio, tag-editor]
+    url: https://picard.musicbrainz.org/downloads/
+
+  - name: Bliss
+    tags: [multimedia, audio, tag-editor]
+    url: http://www.blisshq.com/download.html
+
+  - name: Vivaldi
+    tags: [internet, browser]
+    url: https://vivaldi.com/download/
+
+  - name: Ventrilo
+    tags: [internet, voip]
+    url: http://ventrilo.com/download.php

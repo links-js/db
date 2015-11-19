@@ -1,0 +1,422 @@
+links:
+  - name: Android SDK
+    tags: [development, platform, java]
+    url: https://developer.android.com/sdk/#Other
+
+  - name: ZeroMQ
+    tags: [development, platform, zeromq]
+    url: http://zeromq.org/distro:microsoft-windows
+
+  - name: Ruby
+    tags: [development, platform, ruby]
+    url: http://rubyinstaller.org/downloads/
+
+  - name: Ruby DevKit
+    tags: [development, platform, ruby]
+    url: https://github.com/oneclick/rubyinstaller/wiki/Development-Kit
+
+  - name: Redis
+    tags: [development, platform, redis]
+    url: https://github.com/ServiceStack/redis-windows
+
+  - name: WinPython (Python Bundle)
+    tags: [development, platform, python]
+    url: https://github.com/winpython/winpython/releases/latest
+
+  - name: IPython
+    tags: [development, platform, python]
+    url: https://ipython.org/install.html
+
+  - name: Visual C++ Compiler for Python 2
+    tags: [development, platform, python]
+    url: http://www.microsoft.com/en-us/download/details.aspx?id=44266
+
+  - name: Win32 API Library for Python
+    tags: [development, platform, python]
+    url: http://sourceforge.net/projects/pywin32/files/pywin32/
+
+  - name: Python
+    tags: [development, platform, python]
+    url: https://www.python.org/downloads/windows/
+
+  - name: py2exe
+    tags: [development, platform, python]
+    url: http://sourceforge.net/projects/py2exe/files/py2exe/
+
+  - name: cx_Freeze
+    tags: [development, platform, python]
+    url: https://pypi.python.org/pypi/cx_Freeze
+
+  - name: Canopy (Python Bundle)
+    tags: [development, platform, python]
+    url: https://www.enthought.com/downloads/
+
+  - name: Get-pip.py
+    tags: [development, platform, python]
+    url: https://github.com/pypa/pip/raw/develop/contrib/get-pip.py
+
+  - name: pyReadline
+    tags: [development, platform, python]
+    url: https://pypi.python.org/pypi/pyreadline
+
+  - name: Atom
+    tags: [development, tools, editor]
+    url: https://atom.io/download/windows
+    type: file
+
+  - name: Audacity Portable
+    tags: [multimedia, audio]
+    url: http://portableapps.com/apps/music_video/audacity_portable
+
+  - name: Audacity
+    tags: [multimedia, audio]
+    url: http://sourceforge.net/projects/audacity/files/latest/download
+
+  - name: BitDefender Anti-virus
+    tags: [system, security, anti-virus]
+    url: http://download.bitdefender.com/windows/installer/en-us/bitdefender_antivirus.exe
+    type: file
+
+  - name: Bvckup 1
+    tags: [system, backup]
+    url: http://bvckup.com/download
+    type: file
+
+  - name: Bvkcup 2
+    tags: [system, backup]
+    url: https://www.bvckup2.com/get
+    type: file
+
+  - name: CDBurnerXP
+    tags: [tools, cd]
+    url: https://cdburnerxp.se/downloadsetup.exe
+    type: file
+
+  - name: CDBurnerXP Portable
+    tags: [tools, cd]
+    url: http://download.cdburnerxp.se/portable/?C=M;O=D
+
+  - name: ConEmu
+    tags: [development, tools, console]
+    url: https://github.com/Maximus5/ConEmu/releases/latest
+
+  - name: Git
+    tags: [development, tools, version-control]
+    url: https://git-scm.com/download/win
+
+  - name: Git (mirror link)
+    tags: [development, tools, version-control]
+    url: https://github.com/git-for-windows/git/releases/latest
+
+  - name: Git LFS
+    tags: [development, tools, version-control]
+    url: https://github.com/github/git-lfs/releases/latest
+
+  - name: Freac
+    tags: [multimedia, audio, converter]
+    url: http://www.freac.org/index.php/en/downloads-mainmenu-33
+
+  - name: IrfanView (64-bit)
+    tags: [multimedia, graphics]
+    url: http://www.irfanview.com/64bit.htm
+
+  - name: IrfanView (64-bit) (Test version)
+    tags: [multimedia, graphics]
+    url: http://www.irfanview.info/test/iview64_test.zip
+    type: file
+
+  - name: K-Lite Codec Pack Mega
+    tags: [multimedia]
+    url: http://www.codecguide.com/download_k-lite_codec_pack_mega.htm
+
+  - name: Lame for Windows
+    tags: [multimedia, audio]
+    url: http://lame.buanzo.org/#lamewindl
+
+  - name: PuTTY (32-bit)
+    tags: [system, tools, remote]
+    url: http://the.earth.li/~sgtatham/putty/latest/x86/putty.zip
+    type: file
+
+  - name: PuTTY Portable
+    tags: [system, tools, remote]
+    url: http://portableapps.com/apps/internet/putty_portable
+
+  - name: SQLite Database Browser
+    tags: [development, tools, sqlite]
+    url: https://github.com/sqlitebrowser/sqlitebrowser/releases/latest
+
+  - name: SQLite Admin
+    tags: [development, tools, sqlite]
+    url: http://download.orbmu2k.de/download.php?id=19
+    type: file
+
+  - name: RapidEE (64-bit)
+    tags: [system, tools]
+    url: http://www.rapidee.com/download/RapidEEx64.zip
+    type: file
+
+  - name: Search Everything
+    tags: [utils, search]
+    url: http://www.voidtools.com/downloads/
+
+  - name: TechSmith SnagIt
+    tags: [multimedia, graphics, screenshot]
+    url: http://download.techsmith.com/snagit/enu/snagit.exe
+    type: file
+
+  - name: Ninite
+    tags: [system, tools]
+    url: https://ninite.com/
+
+  - name: NTLite (64-bit)
+    tags: [system, tools, windows]
+    url: http://downloads.ntlite.com/files/NTLite_setup_x64.exe
+    type: file
+
+  - name: Phantom.JS
+    tags: [development, platform, javascript]
+    url: http://phantomjs.org/download.html
+
+  - name: ExactFile
+    tags: [development, tools, hash]
+    url: http://www.exactfile.com/downloads/
+
+  - name: KeePass
+    tags: [system, security, password]
+    url: http://keepass.info/download.html
+
+  - name: XnView
+    tags: [multimedia, graphics, viewer]
+    url: http://download3.xnview.com/XnView-win-full.zip
+    type: file
+
+  - name: XnView Shell Extensions
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnShellEx64.zip
+    type: file
+
+  - name: Ventrilo
+    tags: [internet, voip]
+    url: http://ventrilo.com/dlprod.php?id=4
+    type: file
+
+  - name: Ventrilo (Server)
+    tags: [internet, voip]
+    url: http://ventrilo.com/dlprod.php?id=101
+    type: file
+
+  - name: Caffeine
+    tags: [system, tools, sleep]
+    url: http://www.zhornsoftware.co.uk/caffeine/caffeine.zip
+    type: file
+
+  - name: Don't Sleep (32-bit)
+    tags: [system, tools, sleep]
+    url: http://www.softwareok.com/Download/DontSleep.zip
+    type: file
+
+  - name: Don't Sleep (64-bit)
+    tags: [system, tools, sleep]
+    url: http://www.softwareok.com/Download/DontSleep_x64.zip
+    type: file
+
+  - name: Emule (Installer)
+    tags: [internet, p2p]
+    url: http://prdownloads.sourceforge.net/emule/eMule0.50a-Installer.exe
+
+  - name: Emule (ZIP)
+    tags: [internet, p2p]
+    url: http://prdownloads.sourceforge.net/emule/eMule0.50a.zip
+
+  - name: Composer for PHP
+    tags: [development, platform, php]
+    url: https://getcomposer.org/Composer-Setup.exe
+    type: file
+
+  - name: Chrome Canary
+    tags: [internet, browser]
+    url: https://www.google.com/chrome/browser/canary.html
+
+  - name: CCleaner
+    tags: [system, cleaning]
+    url: https://www.piriform.com/ccleaner/download/standard
+
+  - name: LinuxLive
+    tags: [system, tools, operating-system]
+    url: http://www.linuxliveusb.com/en/download
+
+  - name: LinuxLive (Portable)
+    tags: [system, tools, operating-system]
+    url: http://www.linuxliveusb.com/en/other-versions
+
+  - name: Taiga
+    tags: [internet, anime]
+    url: http://taiga.erengy.com/download.php
+
+  - name: Mal Updater (Installer)
+    tags: [internet, anime]
+    url: http://www.malupdater.com/downloads/86/
+
+  - name: Mal Updater (Portable)
+    tags: [internet, anime]
+    url: http://www.malupdater.com/downloads/88/
+
+  - name: RetroShare
+    tags: [internet, p2p]
+    url: http://sourceforge.net/projects/retroshare/files/latest/download
+
+  - name: SourceTree
+    tags: [development, tools, version-control, git, mercury]
+    url: https://www.sourcetreeapp.com/download/
+
+  - name: SmartGit
+    tags: [development, tools, version-control, git]
+    url: http://www.syntevo.com/smartgit/download
+
+  - name: ExtractNow
+    tags: [utils, zip]
+    url: http://www.extractnow.com/releases/
+
+  - name: PowerArchiver
+    tags: [utils, zip]
+    url: http://www.powerarchiver.com/download-powerarchiver/
+
+  - name: Synthesia (Installer)
+    tags: [multimedia, audio]
+    url: http://www.synthesiagame.com/download.aspx?product=Synthesia&platform=win&version=latest
+    type: file
+
+  - name: Synthesia (Portable)
+    tags: [multimedia, audio]
+    url: http://www.synthesiagame.com/download.aspx?product=Synthesia&platform=win_sa&version=latest
+    type: file
+
+  - name: Mp3Tag (Installer)
+    tags: [multimedia, audio, tag-editor]
+    url: http://www.mp3tag.de/en/download.html
+
+  - name: Mp3Tag (Portable)
+    tags: [multimedia, audio, tag-editor]
+    url: http://sourceforge.net/projects/mp3tagportable/files/latest/download
+
+  - name: Mumble (Portable)
+    tags: [internet, voip]
+    url: http://www.mumble.com/support/mumble-install-problems-on-windows.php
+
+  - name: Firefox Developer Edition (Portable)
+    tags: [internet, browser]
+    url: http://portableapps.com/apps/internet/firefox-developer-portable
+
+  - name: Firefox Stable (Portable)
+    tags: [internet, browser]
+    url: http://portableapps.com/apps/internet/firefox_portable
+
+  - name: Eraser
+    tags: [system, security]
+    url: http://sourceforge.net/projects/eraser/files/latest/download
+
+  - name: Windows USB-DVD Download Tool
+    tags: [system, tools, operating-system]
+    url: http://wudt.codeplex.com/
+
+  - name: Win32 Disk Imager
+    tags: [system, tools, operating-system]
+    url: http://sourceforge.net/projects/win32diskimager/files/Archive/
+
+  - name: SUSE Image Writer
+    tags: [system, tools, operating-system]
+    url: https://github.com/openSUSE/kiwi/downloads
+
+  - name: QTTabBar
+    tags: [system, tools, explorer]
+    url: http://qttabbar.wikidot.com/
+
+  - name: Classic Shell
+    tags: [system, tools, explorer]
+    url: http://www.classicshell.net/downloads/
+
+  - name: Charles
+    tags: [development, tools, web, debugging]
+    url: http://www.charlesproxy.com/download/
+
+  - name: Fiddler
+    tags: [development, tools, web, debugging]
+    url: http://www.telerik.com/download/fiddler
+
+  - name: URL Snooper
+    tags: [development, tools, packet]
+    url: https://www.donationcoder.com/Software/Mouser/urlsnooper/
+
+  - name: F.lux
+    tags: [utils, screen]
+    url: https://justgetflux.com/flux-setup.exe
+
+  - name: Universal Media Server
+    tags: [multimedia, server]
+    url: http://sourceforge.net/projects/unimediaserver/files/Official%20Releases/Windows/
+
+  - name: MongoDB (ZIP)
+    tags: [development, platform, mongodb]
+    url: http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-latest.zip
+
+  - name: MongoDB (Directory Listing)
+    tags: [development, platform, mongodb]
+    url: https://www.mongodb.org/dl/win32/x86_64-2008plus-ssl
+
+  - name: CPU-Z
+    tags: [system, tools]
+    url: http://www.cpuid.com/softwares/cpu-z.html
+
+  - name: GPU-Z
+    tags: [system, tools]
+    url: https://www.techpowerup.com/downloads/SysInfo/GPU-Z/
+
+  - name: VMware Mac OS X Unlocker
+    tags: [system, virtual-machine]
+    url: http://www.insanelymac.com/forum/files/file/339-unlocker/
+
+  - name: ESED NOD32 (64-bit)
+    tags: [system, security, anti-virus]
+    url: http://www.eset.com/int/download//home/detail/family/2?installer=offline#offline,231,ENU,,,
+
+  - name: 7++ Task Tweaker
+    tags: [system, tools]
+    url: http://rammichael.com/downloads/7tt_setup.exe
+    type: file
+
+  - name: .NET 4.5.2 (Offline Installer)
+    tags: [system, windows, net-framework]
+    url: http://www.microsoft.com/en-us/download/details.aspx?id=42642
+
+  - name: SysInternals Suite
+    tags: [system, tools]
+    url: https://download.sysinternals.com/files/SysinternalsSuite.zip
+
+  - name: WinCDEmu
+    tags: [utils, mounting]
+    url: http://wincdemu.sysprogs.org/download/
+
+  - name: Virtual CloneDrive
+    tags: [utils, mounting]
+    url: http://static.slysoft.com/SetupVirtualCloneDrive.exe
+
+  - name: qBittorrent (Portable)
+    tags: [internet, torrent]
+    url: http://portableapps.com/apps/internet/qbittorrent_portable
+
+  - name: SpeedCrunch
+    tags: [utils, scientific]
+    url: http://www.speedcrunch.org/
+
+  - name: Graph
+    tags: [utils, scientific]
+    url: https://www.padowan.dk/download/
+
+  - name: VisiPics
+    tags: [utils, duplicate]
+    url: http://www.fosshub.com/VisiPics.html
+
+  - name: CloneSpy
+    tags: [utils, duplicate]
+    url: http://www.clonespy.com/?Download
