@@ -420,3 +420,8 @@ links:
   - name: CloneSpy
     tags: [utils, duplicate]
     url: http://www.clonespy.com/?Download
+
+  - name: Jenkins
+    tags: [development, platform, ci]
+    url: http://mirrors.jenkins-ci.org/windows/latest
+    type: file

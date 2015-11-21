@@ -1,4 +1,9 @@
 links:
   - name: Carbon Copy Cloner
-  - tags: [system, tools, backup]
-  - url: https://bombich.com/download
+    tags: [system, tools, backup]
+    url: https://bombich.com/download
+
+  - name: Jenkins
+    tags: [development, platform, ci]
+    url: http://mirrors.jenkins-ci.org/osx/latest
+    type: file
