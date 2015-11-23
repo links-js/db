@@ -43,6 +43,10 @@ links:
     tags: [utils, zip]
     url: http://www.7-zip.org/download.html
 
+  - name: WinRAR
+    tags: [utils, zip]
+    url: http://www.rarlab.com/download.htm
+
   - name: VirtualBox
     tags: [system, virtual-machine]
     url: https://www.virtualbox.org/wiki/Downloads

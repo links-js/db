@@ -425,3 +425,7 @@ links:
     tags: [development, platform, ci]
     url: http://mirrors.jenkins-ci.org/windows/latest
     type: file
+
+  - name: 7-Zip Portable
+    tags: [utils, zip]
+    url: http://portableapps.com/apps/utilities/7-zip_portable
