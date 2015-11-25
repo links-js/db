@@ -429,3 +429,8 @@ links:
   - name: 7-Zip Portable
     tags: [utils, zip]
     url: http://portableapps.com/apps/utilities/7-zip_portable
+
+  - name: Steam
+    tags: [gaming]
+    url: https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe
+    type: file

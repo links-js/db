@@ -1,1 +1,5 @@
 links:
+  - name: Steam
+    tags: [gaming]
+    url: https://steamcdn-a.akamaihd.net/client/installer/steam.deb
+    type: file

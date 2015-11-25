@@ -7,3 +7,8 @@ links:
     tags: [development, platform, ci]
     url: http://mirrors.jenkins-ci.org/osx/latest
     type: file
+
+  - name: Steam
+    tags: [gaming]
+    url: https://steamcdn-a.akamaihd.net/client/installer/steam.dmg
+    type: file
