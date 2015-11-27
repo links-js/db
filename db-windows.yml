@@ -180,7 +180,23 @@ links:
 
   - name: ExactFile
     tags: [development, tools, hash]
-    url: http://www.exactfile.com/downloads/
+    url: http://www.exactfile.com/files/ExactFile-Setup.exe
+    type: file
+
+  - name: HashCheck Shell Extension
+    tags: [development, tools, hash]
+    url: http://code.kliu.org/hashcheck/downloads/HashCheckInstall-latest.exe
+    type: file
+
+  - name: QuickSFV (32-bit)
+    tags: [development, tools, hash]
+    url: http://www.quicksfv.org/quicksfv-setup32.msi
+    type: file
+
+  - name: QuickSFV (64-bit)
+    tags: [development, tools, hash]
+    url: http://www.quicksfv.org/quicksfv-setup64.msi
+    type: file
 
   - name: KeePass
     tags: [system, security, password]
