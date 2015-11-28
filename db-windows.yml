@@ -345,12 +345,20 @@ links:
     url: https://github.com/openSUSE/kiwi/downloads
 
   - name: QTTabBar
-    tags: [system, tools, explorer]
+    tags: [system, tools, shell]
     url: http://qttabbar.wikidot.com/
 
   - name: Classic Shell
-    tags: [system, tools, explorer]
+    tags: [system, tools, shell]
     url: http://www.classicshell.net/downloads/
+
+  - name: Folder Size
+    tags: [system, tools, shell]
+    url: http://foldersize.sourceforge.net/
+
+  - name: Link Shell Extension
+    tags: [system, tools, shell]
+    url: http://schinagl.priv.at/nt/hardlinkshellext/?C=M;O=D;P=*.exe
 
   - name: Charles
     tags: [development, tools, web, debugging]
