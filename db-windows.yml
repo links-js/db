@@ -360,6 +360,26 @@ links:
     tags: [system, tools, shell]
     url: http://schinagl.priv.at/nt/hardlinkshellext/?C=M;O=D;P=*.exe
 
+  - name: ShellExView (32-bit)
+    tags: [system, tools, shell]
+    url: http://www.nirsoft.net/utils/shexview.zip
+    type: file
+
+  - name: ShellExView (64-bit)
+    tags: [system, tools, shell]
+    url: http://www.nirsoft.net/utils/shexview-x64.zip
+    type: file
+
+  - name: ShellMenuView (32-bit)
+    tags: [system, tools, shell]
+    url: http://www.nirsoft.net/utils/shmnview.zip
+    type: file
+
+  - name: ShellMenuView (64-bit)
+    tags: [system, tools, shell]
+    url: http://www.nirsoft.net/utils/shmnview-x64.zip
+    type: file
+
   - name: Charles
     tags: [development, tools, web, debugging]
     url: http://www.charlesproxy.com/download/
