@@ -222,6 +222,16 @@ links:
     url: http://ventrilo.com/dlprod.php?id=101
     type: file
 
+  - name: qTox (32-bit)
+    tags: [internet, voip]
+    url: https://build.tox.chat/view/Clients/job/qTox_build_windows_x86_release/lastSuccessfulBuild/artifact/qTox_build_windows_x86_release.zip
+    type: file
+
+  - name: qTox (64-bit)
+    tags: [internet, voip]
+    url: https://build.tox.chat/view/Clients/job/qTox_build_windows_x86-64_release/lastSuccessfulBuild/artifact/qTox_build_windows_x86-64_release.zip
+    type: file
+
   - name: Caffeine
     tags: [system, tools, sleep]
     url: http://www.zhornsoftware.co.uk/caffeine/caffeine.zip

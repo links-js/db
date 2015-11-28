@@ -12,3 +12,7 @@ links:
     tags: [gaming]
     url: https://steamcdn-a.akamaihd.net/client/installer/steam.dmg
     type: file
+
+  - name: qTox
+    tags: [internet, voip]
+    url: https://github.com/RowenStipe/qTox-OSX/releases/latest
