@@ -165,6 +165,15 @@ links:
     url: http://download.techsmith.com/snagit/enu/snagit.exe
     type: file
 
+  - name: Greenshot
+    tags: [multimedia, graphics, screenshot]
+    url: https://github.com/greenshot/greenshot/releases/latest
+    type: file
+
+  - name: ShareX
+    tags: [multimedia, graphics, screenshot]
+    url: https://github.com/ShareX/ShareX/releases/latest
+
   - name: Ninite
     tags: [system, tools]
     url: https://ninite.com/
