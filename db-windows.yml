@@ -497,3 +497,12 @@ links:
     tags: [gaming]
     url: https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe
     type: file
+
+  - name: LockHunter
+    tags: [system, tools, unlocker]
+    url: http://lockhunter.com/downloadnow.htm
+
+  - name: Unlocker
+    tags: [system, tools, unlocker]
+    url: http://www.emptyloop.com/unlocker/download.php
+    type: file
