@@ -90,3 +90,7 @@ links:
   - name: ScreenCloud
     tags: [multimedia, graphics, screenshot]
     url: http://sourceforge.net/projects/screencloud/files/latest/download?source=files
+
+  - name: QuiteRSS
+    tags: [utils, rss-reader]
+    url: https://quiterss.org/en/download
