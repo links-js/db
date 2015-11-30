@@ -16,3 +16,8 @@ links:
   - name: qTox
     tags: [internet, voip]
     url: https://github.com/RowenStipe/qTox-OSX/releases/latest
+
+  - name: VNC Viewer
+    tags: [system, tools, remote]
+    url: http://www.realvnc.com/download/binary/1734/
+    type: file

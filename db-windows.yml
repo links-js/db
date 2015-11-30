@@ -506,3 +506,13 @@ links:
     tags: [system, tools, unlocker]
     url: http://www.emptyloop.com/unlocker/download.php
     type: file
+
+  - name: VNC Viewer (32-bit)
+    tags: [system, tools, remote]
+    url: http://www.realvnc.com/download/binary/1730/
+    type: file
+
+  - name: VNC Viewer (64-bit)
+    tags: [system, tools, remote]
+    url: http://www.realvnc.com/download/binary/1732/
+    type: file
