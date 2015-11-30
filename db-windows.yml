@@ -285,6 +285,15 @@ links:
     tags: [system, tools, operating-system]
     url: http://www.linuxliveusb.com/en/other-versions
 
+  - name: Rufus (Installer)
+    tags: [system, tools, operating-system]
+    url: http://rufus.akeo.ie/downloads/rufus.exe
+    type: file
+
+  - name: Rufus (Directory Listing)
+    tags: [system, tools, operating-system]
+    url: http://rufus.akeo.ie/downloads/
+
   - name: Taiga
     tags: [internet, anime]
     url: http://taiga.erengy.com/download.php
@@ -520,3 +529,12 @@ links:
   - name: TightVNC
     tags: [system, tools, remote]
     url: http://www.tightvnc.com/download.php
+
+  - name: WinDirStat
+    tags: [system, tools, drive]
+    url: http://download01.windirstat.info/wds_current_setup.exe
+    type: file
+
+  - name: WinDirStat (Portable)
+    tags: [system, tools, drive]
+    url: http://portableapps.com/apps/utilities/windirstat_portable
