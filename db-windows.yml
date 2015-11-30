@@ -516,3 +516,7 @@ links:
     tags: [system, tools, remote]
     url: http://www.realvnc.com/download/binary/1732/
     type: file
+
+  - name: TightVNC
+    tags: [system, tools, remote]
+    url: http://www.tightvnc.com/download.php
