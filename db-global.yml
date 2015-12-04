@@ -94,3 +94,7 @@ links:
   - name: QuiteRSS
     tags: [utils, rss-reader]
     url: https://quiterss.org/en/download
+
+  - name: HandBrake
+    tags: [multimedia, video, converter]
+    url: https://handbrake.fr/downloads.php

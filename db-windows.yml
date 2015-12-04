@@ -538,3 +538,7 @@ links:
   - name: WinDirStat (Portable)
     tags: [system, tools, drive]
     url: http://portableapps.com/apps/utilities/windirstat_portable
+
+  - name: XMedia Recode
+    tags: [multimedia, video, converter]
+    url: http://www.xmedia-recode.de/download.html
