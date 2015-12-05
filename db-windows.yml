@@ -101,16 +101,20 @@ links:
     url: https://github.com/Maximus5/ConEmu/releases/latest
 
   - name: Git
-    tags: [development, tools, version-control]
+    tags: [development, tools, version-control, git]
     url: https://git-scm.com/download/win
 
   - name: Git (mirror link)
-    tags: [development, tools, version-control]
+    tags: [development, tools, version-control, git]
     url: https://github.com/git-for-windows/git/releases/latest
 
   - name: Git LFS
-    tags: [development, tools, version-control]
+    tags: [development, tools, version-control, git]
     url: https://github.com/github/git-lfs/releases/latest
+
+  - name: Git Credential Manager
+    tags: [development, tools, version-control, git]
+    url: https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest
 
   - name: Freac
     tags: [multimedia, audio, converter]
