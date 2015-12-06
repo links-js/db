@@ -546,3 +546,8 @@ links:
   - name: XMedia Recode
     tags: [multimedia, video, converter]
     url: http://www.xmedia-recode.de/download.html
+
+  - name: Heroku Toolbelt
+    tags: [development, platform, heroku]
+    url: https://s3.amazonaws.com/assets.heroku.com/heroku-toolbelt/heroku-toolbelt.exe
+    type: file

@@ -27,3 +27,7 @@ links:
   - name: Git
     tags: [development, tools, version-control, git]
     url: https://git-scm.com/download/linux
+
+  - name: Heroku Toolbelt
+    tags: [development, platform, heroku]
+    url: https://toolbelt.heroku.com/install-ubuntu.sh
