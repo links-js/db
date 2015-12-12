@@ -96,6 +96,10 @@ links:
     tags: [tools, cd]
     url: http://download.cdburnerxp.se/portable/?C=M;O=D
 
+  - name: Clink
+    tags: [development, tools, console]
+    url: https://github.com/mridgers/clink/releases/latest
+
   - name: ConEmu
     tags: [development, tools, console]
     url: https://github.com/Maximus5/ConEmu/releases/latest
