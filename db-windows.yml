@@ -137,6 +137,26 @@ links:
     url: http://www.irfanview.info/test/iview64_test.zip
     type: file
 
+  - name: XnView MP (32-bit) (Setup)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-win.exe
+    type: file
+
+  - name: XnView MP (64-bit) (Setup)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-win-x64.exe
+    type: file
+
+  - name: XnView MP (32-bit) (Portable)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-win.zip
+    type: file
+
+  - name: XnView MP (64-bit) (Portable)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-win-x64.zip
+    type: file
+
   - name: K-Lite Codec Pack Mega
     tags: [multimedia]
     url: http://www.codecguide.com/download_k-lite_codec_pack_mega.htm
@@ -222,16 +242,6 @@ links:
   - name: KeePass
     tags: [system, security, password]
     url: http://keepass.info/download.html
-
-  - name: XnView
-    tags: [multimedia, graphics, viewer]
-    url: http://download3.xnview.com/XnView-win-full.zip
-    type: file
-
-  - name: XnView Shell Extensions
-    tags: [multimedia, graphics, viewer]
-    url: http://download.xnview.com/XnShellEx64.zip
-    type: file
 
   - name: Ventrilo
     tags: [internet, voip]

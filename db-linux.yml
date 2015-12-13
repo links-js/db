@@ -31,3 +31,23 @@ links:
   - name: Heroku Toolbelt
     tags: [development, platform, heroku]
     url: https://toolbelt.heroku.com/install-ubuntu.sh
+
+  - name: XnView MP (32-bit) (DEB)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-linux.deb
+    type: file
+
+  - name: XnView MP (64-bit) (DEB)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-linux-x64.deb
+    type: file
+
+  - name: XnView MP (32-bit) (ZIP)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-linux.tgz
+    type: file
+
+  - name: XnView MP (64-bit) (ZIP)
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-linux-x64.tgz
+    type: file

@@ -30,3 +30,8 @@ links:
     tags: [development, platform, heroku]
     url: https://s3.amazonaws.com/assets.heroku.com/heroku-toolbelt/heroku-toolbelt.pkg
     type: file
+
+  - name: XnView MP
+    tags: [multimedia, graphics, viewer]
+    url: http://download.xnview.com/XnViewMP-mac.tgz
+    type: file
