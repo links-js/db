@@ -98,3 +98,7 @@ links:
   - name: HandBrake
     tags: [multimedia, video, converter]
     url: https://handbrake.fr/downloads.php
+
+  - name: HexChat
+    tags: [internet, instant-messaging, irc]
+    url: https://hexchat.github.io/downloads.html
