@@ -35,3 +35,8 @@ links:
     tags: [multimedia, graphics, viewer]
     url: http://download.xnview.com/XnViewMP-mac.tgz
     type: file
+
+  - name: Google Earth
+    tags: [utils, google]
+    url: https://dl.google.com/earth/client/advanced/current/GoogleEarthMac.dmg
+    type: file

@@ -569,3 +569,8 @@ links:
     tags: [development, platform, heroku]
     url: https://s3.amazonaws.com/assets.heroku.com/heroku-toolbelt/heroku-toolbelt.exe
     type: file
+
+  - name: Google Earth
+    tags: [utils, google]
+    url: https://dl.google.com/earth/client/advanced/current/GoogleEarthWin.exe
+    type: file
