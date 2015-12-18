@@ -106,3 +106,7 @@ links:
   - name: PhpStorm EAP
     tags: [development, tools, ide]
     url: https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program
+
+  - name: Aptana Studio
+    tags: [development, tools, ide]
+    url: http://www.aptana.com/products/studio3/download.html
