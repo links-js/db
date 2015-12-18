@@ -55,3 +55,19 @@ links:
   - name: PhpStorm
     tags: [development, tools, ide]
     url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=linux
+
+  - name: Komodo Edit (32-bit)
+    tags: [development, tools, editor]
+    url: http://komodoide.com/download/edit-linux
+
+  - name: Komodo Edit (64-bit)
+    tags: [development, tools, editor]
+    url: http://komodoide.com/download/edit-linux64
+
+  - name: Komodo IDE (32-bit)
+    tags: [development, tools, ide]
+    url: http://komodoide.com/download/ide-linux
+
+  - name: Komodo IDE (64-bit)
+    tags: [development, tools, ide]
+    url: http://komodoide.com/download/ide-linux64

@@ -44,3 +44,11 @@ links:
   - name: PhpStorm
     tags: [development, tools, ide]
     url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=mac
+
+  - name: Komodo Edit
+    tags: [development, tools, editor]
+    url: http://komodoide.com/download/edit-osx
+
+  - name: Komodo IDE
+    tags: [development, tools, ide]
+    url: http://komodoide.com/download/ide-osx
