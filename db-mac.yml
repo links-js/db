@@ -40,3 +40,7 @@ links:
     tags: [utils, google]
     url: https://dl.google.com/earth/client/advanced/current/GoogleEarthMac.dmg
     type: file
+
+  - name: PhpStorm
+    tags: [development, tools, ide]
+    url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=mac

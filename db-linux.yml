@@ -51,3 +51,7 @@ links:
     tags: [multimedia, graphics, viewer]
     url: http://download.xnview.com/XnViewMP-linux-x64.tgz
     type: file
+
+  - name: PhpStorm
+    tags: [development, tools, ide]
+    url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=linux
