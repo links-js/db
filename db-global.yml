@@ -102,3 +102,7 @@ links:
   - name: HexChat
     tags: [internet, instant-messaging, irc]
     url: https://hexchat.github.io/downloads.html
+
+  - name: PhpStorm EAP
+    tags: [development, tools, ide]
+    url: https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program
