@@ -71,3 +71,7 @@ links:
   - name: Komodo IDE (64-bit)
     tags: [development, tools, ide]
     url: http://komodoide.com/download/ide-linux64
+
+  - name: NetBeans IDE
+    tags: [development, tools, ide]
+    url: https://netbeans.org/downloads/start.html?platform=linux&lang=en&option=all
