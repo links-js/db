@@ -104,8 +104,16 @@ links:
     url: https://hexchat.github.io/downloads.html
 
   - name: PhpStorm EAP
-    tags: [development, tools, ide]
+    tags: [development, tools, ide, jetbrains]
     url: https://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program
+
+  - name: PyCharm EAP
+    tags: [development, tools, ide, jetbrains]
+    url: https://confluence.jetbrains.com/display/PYH/JetBrains+PyCharm+Preview+%28EAP%29
+
+  - name: IntelliJ IDEA EAP
+    tags: [development, tools, ide, jetbrains]
+    url: https://confluence.jetbrains.com/display/IDEADEV/IDEA+15+EAP
 
   - name: Aptana Studio
     tags: [development, tools, ide]
