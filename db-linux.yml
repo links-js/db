@@ -80,3 +80,8 @@ links:
     tags: [development, tools, editor]
     url: https://atom.io/download/deb
     type: file
+
+  - name: Last.fm Scrobbler
+    tags: [multimedia, audio]
+    url: http://www.last.fm/download/linux
+    type: file

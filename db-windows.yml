@@ -72,6 +72,11 @@ links:
     tags: [multimedia, audio]
     url: http://sourceforge.net/projects/audacity/files/latest/download
 
+  - name: Last.fm Scrobbler
+    tags: [multimedia, audio]
+    url: http://www.last.fm/download/windows
+    type: file
+
   - name: BitDefender Anti-virus
     tags: [system, security, anti-virus]
     url: http://download.bitdefender.com/windows/installer/en-us/bitdefender_antivirus.exe

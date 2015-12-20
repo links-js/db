@@ -61,3 +61,8 @@ links:
     tags: [development, tools, editor]
     url: https://atom.io/download/mac
     type: file
+
+  - name: Last.fm Scrobbler
+    tags: [multimedia, audio]
+    url: http://www.last.fm/download/mac
+    type: file
