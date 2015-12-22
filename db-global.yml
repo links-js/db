@@ -31,6 +31,18 @@ links:
     tags: [system, linux]
     url: http://mirror.rackspace.com/archlinux/iso/
 
+  - name: Ubuntu (Desktop)
+    tags: [system, linux, ubuntu]
+    url: http://www.ubuntu.com/download/desktop
+
+  - name: Ubuntu (Server)
+    tags: [system, linux, ubuntu]
+    url: http://www.ubuntu.com/download/server
+
+  - name: Xubuntu
+    tags: [system, linux, ubuntu]
+    url: http://xubuntu.org/getxubuntu/
+
   - name: VLC
     tags: [multimedia, video, player]
     url: http://download.videolan.org/pub/videolan/vlc/
