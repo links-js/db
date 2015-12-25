@@ -133,6 +133,11 @@ links:
     tags: [development, tools, version-control, git]
     url: https://github.com/gitextensions/gitextensions/releases/latest
 
+  - name: Git Annex
+    tags: [development, tools, version-control, git]
+    url: https://downloads.kitenet.net/git-annex/windows/current/git-annex-installer.exe
+    type: file
+
   - name: Freac
     tags: [multimedia, audio, converter]
     url: http://www.freac.org/index.php/en/downloads-mainmenu-33
