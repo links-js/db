@@ -129,6 +129,10 @@ links:
     tags: [development, tools, version-control, git]
     url: https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases/latest
 
+  - name: GitExtensions
+    tags: [development, tools, version-control, git]
+    url: https://github.com/gitextensions/gitextensions/releases/latest
+
   - name: Freac
     tags: [multimedia, audio, converter]
     url: http://www.freac.org/index.php/en/downloads-mainmenu-33
