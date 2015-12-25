@@ -85,3 +85,7 @@ links:
     tags: [multimedia, audio]
     url: http://www.last.fm/download/linux
     type: file
+
+  - name: Git
+    tags: [development, tools, version-control, git]
+    url: https://git-scm.com/download/linux
