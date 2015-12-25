@@ -70,3 +70,8 @@ links:
   - name: Git
     tags: [development, tools, version-control, git]
     url: https://git-scm.com/download/mac
+
+  - name: Heroku Toolbelt
+    tags: [development, platform, heroku]
+    url: https://s3.amazonaws.com/assets.heroku.com/heroku-toolbelt/heroku-toolbelt.pkg
+    type: file
