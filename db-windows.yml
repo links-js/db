@@ -73,6 +73,10 @@ links:
     url: http://www.last.fm/download/windows
     type: file
 
+  - name: foobar2000
+    tags: [multimedia, audio, player]
+    url: http://www.foobar2000.org/download
+
   - name: BitDefender Anti-virus
     tags: [system, security, anti-virus]
     url: http://download.bitdefender.com/windows/installer/en-us/bitdefender_antivirus.exe
