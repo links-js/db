@@ -306,7 +306,7 @@ links:
     type: file
 
   - name: PhpStorm
-    tags: [development, tools, ide]
+    tags: [development, tools, ide, jetbrains]
     url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=windows
 
   - name: Chrome Canary
@@ -497,9 +497,13 @@ links:
     url: http://rammichael.com/downloads/7tt_setup.exe
     type: file
 
-  - name: .NET 4.5.2 (Offline Installer)
+  - name: .NET 4.6.1 (Offline Installer)
     tags: [system, windows, net-framework]
-    url: http://www.microsoft.com/en-us/download/details.aspx?id=42642
+    url: https://www.microsoft.com/en-us/download/details.aspx?id=49982
+
+  - name: .NET 4.6.1 (Web Installer)
+    tags: [system, windows, net-framework]
+    url: https://www.microsoft.com/en-us/download/details.aspx?id=49981
 
   - name: SysInternals Suite
     tags: [system, tools]

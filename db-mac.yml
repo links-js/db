@@ -42,7 +42,7 @@ links:
     type: file
 
   - name: PhpStorm
-    tags: [development, tools, ide]
+    tags: [development, tools, ide, jetbrains]
     url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=mac
 
   - name: Komodo Edit
