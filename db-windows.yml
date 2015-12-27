@@ -1,8 +1,4 @@
 links:
-  - name: Android SDK
-    tags: [development, platform, java]
-    url: https://developer.android.com/sdk/#Other
-
   - name: ZeroMQ
     tags: [development, platform, zeromq]
     url: http://zeromq.org/distro:microsoft-windows

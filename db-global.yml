@@ -134,3 +134,11 @@ links:
   - name: Git Annex
     tags: [development, tools, version-control, git]
     url: https://git-annex.branchable.com/install/
+
+  - name: Java
+    tags: [development, platform, java]
+    url: https://www.java.com/en/download/
+
+  - name: Android SDK
+    tags: [development, platform, java]
+    url: https://developer.android.com/sdk/#Other
