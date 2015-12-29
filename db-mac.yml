@@ -75,3 +75,8 @@ links:
     tags: [development, platform, heroku]
     url: https://s3.amazonaws.com/assets.heroku.com/heroku-toolbelt/heroku-toolbelt.pkg
     type: file
+
+  - name: GitHub Desktop
+    tags: [development, tools, version-control, git]
+    url: https://central.github.com/mac/latest
+    type: file

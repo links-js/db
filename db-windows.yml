@@ -113,7 +113,7 @@ links:
     tags: [development, tools, version-control, git]
     url: https://git-scm.com/download/win
 
-  - name: Git (mirror link)
+  - name: Git (GitHub mirror)
     tags: [development, tools, version-control, git]
     url: https://github.com/git-for-windows/git/releases/latest
 
@@ -132,6 +132,11 @@ links:
   - name: Git Annex
     tags: [development, tools, version-control, git]
     url: https://downloads.kitenet.net/git-annex/windows/current/git-annex-installer.exe
+    type: file
+
+  - name: GitHub Desktop
+    tags: [development, tools, version-control, git]
+    url: https://github-windows.s3.amazonaws.com/GitHubSetup.exe
     type: file
 
   - name: Freac
