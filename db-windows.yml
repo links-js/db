@@ -604,3 +604,7 @@ links:
   - name: NetBeans IDE
     tags: [development, tools, ide]
     url: https://netbeans.org/downloads/start.html?platform=windows&lang=en&option=all
+
+  - name: NSIS
+    tags: [development, platform, installer]
+    url: http://nsis.sourceforge.net/Download
