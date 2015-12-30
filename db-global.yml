@@ -142,3 +142,7 @@ links:
   - name: Android SDK
     tags: [development, platform, java]
     url: https://developer.android.com/sdk/#Other
+
+  - name: qBittorrent
+    tags: [internet, torrent]
+    url: http://www.fosshub.com/qBittorrent.html
