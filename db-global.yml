@@ -146,3 +146,11 @@ links:
   - name: qBittorrent
     tags: [internet, torrent]
     url: http://www.fosshub.com/qBittorrent.html
+
+  - name: Aegisub
+    tags: [multimedia, video, subtitle]
+    url: http://www.aegisub.org/downloads/
+
+  - name: Aegisub (Trunk)
+    tags: [multimedia, video, subtitle]
+    url: http://plorkyeran.com/aegisub/
