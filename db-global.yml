@@ -43,6 +43,18 @@ links:
     tags: [system, linux, ubuntu]
     url: http://xubuntu.org/getxubuntu/
 
+  - name: Debian
+    tags: [system, linux, debian]
+    url: https://www.debian.org/CD/http-ftp/#stable
+
+  - name: Debian (Netinst)
+    tags: [system, linux, debian]
+    url: https://www.debian.org/CD/netinst/
+
+  - name: Tails
+    tags: [system, linux, debian]
+    url: https://tails.boum.org/download/index.en.html#index2h1
+
   - name: VLC
     tags: [multimedia, video, player]
     url: http://download.videolan.org/pub/videolan/vlc/
