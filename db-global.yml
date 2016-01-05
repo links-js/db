@@ -55,6 +55,14 @@ links:
     tags: [system, linux, debian]
     url: https://tails.boum.org/download/index.en.html#index2h1
 
+  - name: Linux Mint
+    tags: [system, linux, ubuntu]
+    url: http://www.linuxmint.com/download.php
+
+  - name: Linux Mint (Debian)
+    tags: [system, linux, debian]
+    url: http://www.linuxmint.com/download_lmde.php
+
   - name: VLC
     tags: [multimedia, video, player]
     url: http://download.videolan.org/pub/videolan/vlc/
