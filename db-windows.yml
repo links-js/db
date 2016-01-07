@@ -306,6 +306,14 @@ links:
     url: https://getcomposer.org/Composer-Setup.exe
     type: file
 
+  - name: PHP
+    tags: [development, platform, php]
+    url: http://windows.php.net/download/
+
+  - name: Apache
+    tags: [development, server]
+    url: http://www.apachelounge.com/download/
+
   - name: PhpStorm
     tags: [development, tools, ide, jetbrains]
     url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=windows

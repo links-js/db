@@ -174,3 +174,15 @@ links:
   - name: Aegisub (Trunk)
     tags: [multimedia, video, subtitle]
     url: http://plorkyeran.com/aegisub/
+
+  - name: Nginx
+    tags: [development, server]
+    url: http://nginx.org/en/download.html
+
+  - name: Apache
+    tags: [development, server]
+    url: https://httpd.apache.org/download.cgi
+
+  - name: PHP
+    tags: [development, platform, php]
+    url: https://secure.php.net/downloads.php
