@@ -301,14 +301,18 @@ links:
     tags: [internet, p2p]
     url: http://prdownloads.sourceforge.net/emule/eMule0.50a.zip
 
+  - name: PHP
+    tags: [development, platform, php]
+    url: http://windows.php.net/download/
+
   - name: Composer for PHP
     tags: [development, platform, php]
     url: https://getcomposer.org/Composer-Setup.exe
     type: file
 
-  - name: PHP
+  - name: EasyPHP
     tags: [development, platform, php]
-    url: http://windows.php.net/download/
+    url: http://www.easyphp.org/
 
   - name: Apache
     tags: [development, server]
