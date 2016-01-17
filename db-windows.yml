@@ -441,6 +441,10 @@ links:
     tags: [system, tools, shell]
     url: http://schinagl.priv.at/nt/hardlinkshellext/?C=M;O=D;P=*.exe
 
+  - name: NirLauncher
+    tags: [system, tools]
+    url: http://launcher.nirsoft.net/download.html
+
   - name: ShellExView (32-bit)
     tags: [system, tools, shell]
     url: http://www.nirsoft.net/utils/shexview.zip
