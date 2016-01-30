@@ -230,10 +230,6 @@ links:
     url: http://downloads.ntlite.com/files/NTLite_setup_x64.exe
     type: file
 
-  - name: Phantom.JS
-    tags: [development, platform, javascript]
-    url: http://phantomjs.org/download.html
-
   - name: ExactFile
     tags: [development, tools, hash]
     url: http://www.exactfile.com/files/ExactFile-Setup.exe

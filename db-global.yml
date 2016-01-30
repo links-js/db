@@ -186,3 +186,15 @@ links:
   - name: PHP
     tags: [development, platform, php]
     url: https://secure.php.net/downloads.php
+
+  - name: SlimerJS
+    tags: [development, platform, javascript]
+    url: http://slimerjs.org/download.html
+
+  - name: CasperJS
+    tags: [development, platform, javascript]
+    url: http://casperjs.org/
+
+  - name: PhantomJS
+    tags: [development, platform, javascript]
+    url: http://phantomjs.org/download.html
