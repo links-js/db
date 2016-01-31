@@ -183,6 +183,14 @@ links:
     tags: [development, server]
     url: https://httpd.apache.org/download.cgi
 
+  - name: Caddy
+    tags: [development, server]
+    url: https://caddyserver.com/download
+
+  - name: Fenix
+    tags: [development, server]
+    url: http://fenixwebserver.com
+
   - name: PHP
     tags: [development, platform, php]
     url: https://secure.php.net/downloads.php
