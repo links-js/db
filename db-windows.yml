@@ -307,8 +307,12 @@ links:
     type: file
 
   - name: EasyPHP
-    tags: [development, platform, php]
+    tags: [development, platform, wamp]
     url: http://www.easyphp.org/
+
+  - name: Uniform Server
+    tags: [development, platform, wamp]
+    url: https://sourceforge.net/projects/miniserver/files/latest/download
 
   - name: Apache
     tags: [development, server]
