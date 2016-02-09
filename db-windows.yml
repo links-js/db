@@ -538,6 +538,10 @@ links:
     tags: [internet, torrent]
     url: http://portableapps.com/apps/internet/qbittorrent_portable
 
+  - name: BEncode Editor
+    tags: [internet, torrent]
+    url: https://sites.google.com/site/ultimasites/bencode-editor#download
+
   - name: SpeedCrunch
     tags: [utils, scientific]
     url: http://www.speedcrunch.org/

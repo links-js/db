@@ -167,6 +167,10 @@ links:
     tags: [internet, torrent]
     url: http://www.fosshub.com/qBittorrent.html
 
+  - name: Deluge
+    tags: [internet, torrent]
+    url: http://dev.deluge-torrent.org/wiki/Download
+
   - name: Aegisub
     tags: [multimedia, video, subtitle]
     url: http://www.aegisub.org/downloads/
