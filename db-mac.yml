@@ -80,3 +80,7 @@ links:
     tags: [development, tools, version-control, git]
     url: https://central.github.com/mac/latest
     type: file
+
+  - name: Gitter
+    tags: [internet, instant-messaging]
+    url: http://update.gitter.im/osx/latest

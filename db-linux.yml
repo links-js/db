@@ -89,3 +89,11 @@ links:
   - name: Git
     tags: [development, tools, version-control, git]
     url: https://git-scm.com/download/linux
+
+  - name: Gitter (32-bit)
+    tags: [internet, instant-messaging]
+    url: http://update.gitter.im/linux32/latest
+
+  - name: Gitter (64-bit)
+    tags: [internet, instant-messaging]
+    url: http://update.gitter.im/linux64/latest

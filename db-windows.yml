@@ -638,3 +638,7 @@ links:
     tags: [system, security, sandbox]
     url: http://www.sandboxie.com/SandboxieInstall.exe
     type: file
+
+  - name: Gitter
+    tags: [internet, instant-messaging]
+    url: http://update.gitter.im/win/latest
