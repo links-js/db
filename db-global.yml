@@ -210,3 +210,7 @@ links:
   - name: PhantomJS
     tags: [development, platform, javascript]
     url: http://phantomjs.org/download.html
+
+  - name: Brackets
+    tags: [development, tools, editor]
+    url: https://github.com/adobe/brackets/releases/latest
