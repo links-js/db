@@ -642,3 +642,7 @@ links:
   - name: Gitter
     tags: [internet, instant-messaging]
     url: http://update.gitter.im/win/latest
+
+  - name: Notepad++
+    tags: [development, tools, editor]
+    url: https://notepad-plus-plus.org/download/
