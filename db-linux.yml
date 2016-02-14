@@ -97,3 +97,7 @@ links:
   - name: Gitter (64-bit)
     tags: [internet, instant-messaging]
     url: http://update.gitter.im/linux64/latest
+
+  - name: IDM UltraEdit
+    tags: [development, tools, editor]
+    url: http://www.ultraedit.com/downloads/uex.html

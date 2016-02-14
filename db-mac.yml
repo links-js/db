@@ -84,3 +84,7 @@ links:
   - name: Gitter
     tags: [internet, instant-messaging]
     url: http://update.gitter.im/osx/latest
+
+  - name: IDM UltraEdit
+    tags: [development, tools, editor]
+    url: http://www.ultraedit.com/downloads/uex.html
