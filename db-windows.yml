@@ -646,3 +646,19 @@ links:
   - name: Notepad++
     tags: [development, tools, editor]
     url: https://notepad-plus-plus.org/download/
+
+  - name: VirusTotal Uploader
+    tags: [system, security, anti-virus]
+    url: https://www.virustotal.com/en/documentation/desktop-applications/
+
+  - name: PhrozenSoft VirusTotal Uploader
+    tags: [system, security, anti-virus]
+    url: http://www.softpedia.com/get/System/OS-Enhancements/PhrozenSoft-VirusTotal-Uploader.shtml#download
+
+  - name: IDM UltraEdit
+    tags: [development, tools, editor]
+    url: http://www.ultraedit.com/downloads/ultraedit_download.html
+
+  - name: IDM UltraEdit (Portable)
+    tags: [development, tools, editor]
+    url: http://www.ultraedit.com/downloads/mobility.html
