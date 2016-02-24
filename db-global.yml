@@ -103,6 +103,10 @@ links:
     tags: [internet, voip]
     url: http://www.mumble.com/mumble-download.php
 
+  - name: TeamSpeak
+    tags: [internet, voip]
+    url: https://www.teamspeak.com/downloads
+
   - name: MusicBrainz Picard
     tags: [multimedia, audio, tag-editor]
     url: https://picard.musicbrainz.org/downloads/
