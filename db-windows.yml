@@ -662,3 +662,17 @@ links:
   - name: IDM UltraEdit (Portable)
     tags: [development, tools, editor]
     url: http://www.ultraedit.com/downloads/mobility.html
+
+  - name: Startup Delayer
+    tags: [system, tools, startup]
+    url: http://www.r2.com.au/page/products/download/startup-delayer
+
+  - name: zoom's File & Image Uploader
+    tags: [internet, tools, upload]
+    url: http://z-o-o-m.eu/down/FileUploader.exe
+    type: file
+
+  - name: puush
+    tags: [internet, tools, upload]
+    url: https://puush.me/dl/puush.msi
+    type: file
