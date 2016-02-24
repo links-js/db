@@ -13,6 +13,11 @@ links:
     url: https://steamcdn-a.akamaihd.net/client/installer/steam.dmg
     type: file
 
+  - name: Skype
+    tags: [internet, voip]
+    url: http://get.skype.com/go/getskype-macosx
+    type: file
+
   - name: qTox
     tags: [internet, voip]
     url: https://github.com/RowenStipe/qTox-OSX/releases/latest

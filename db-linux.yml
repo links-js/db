@@ -4,6 +4,10 @@ links:
     url: https://steamcdn-a.akamaihd.net/client/installer/steam.deb
     type: file
 
+  - name: Skype
+    tags: [internet, voip]
+    url: http://www.skype.com/en/download-skype/skype-for-linux/
+
   - name: qTox (32-bit)
     tags: [internet, voip]
     url: https://build.tox.chat/view/Clients/job/qTox_build_linux_x86_release/lastSuccessfulBuild/artifact/qTox_build_linux_x86_release.tar.xz

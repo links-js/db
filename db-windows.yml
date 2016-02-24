@@ -254,6 +254,11 @@ links:
     tags: [system, security, password]
     url: http://keepass.info/download.html
 
+  - name: Skype
+    tags: [internet, voip]
+    url: http://get.skype.com/go/getskype
+    type: file
+
   - name: Ventrilo
     tags: [internet, voip]
     url: http://ventrilo.com/dlprod.php?id=4
