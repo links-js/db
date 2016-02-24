@@ -255,7 +255,7 @@ links:
     url: http://keepass.info/download.html
 
   - name: Skype
-    tags: [internet, voip]
+    tags: [internet, voip, im]
     url: http://get.skype.com/go/getskype
     type: file
 
@@ -277,6 +277,15 @@ links:
   - name: qTox (64-bit)
     tags: [internet, voip]
     url: https://build.tox.chat/view/Clients/job/qTox_build_windows_x86-64_release/lastSuccessfulBuild/artifact/qTox_build_windows_x86-64_release.zip
+    type: file
+
+  - name: Gitter
+    tags: [internet, im]
+    url: http://update.gitter.im/win/latest
+
+  - name: Line
+    tags: [internet, im, voip]
+    url: http://cdn.line-apps.com/client/win/new/LineInst.exe
     type: file
 
   - name: Caffeine
@@ -643,10 +652,6 @@ links:
     tags: [system, security, sandbox]
     url: http://www.sandboxie.com/SandboxieInstall.exe
     type: file
-
-  - name: Gitter
-    tags: [internet, instant-messaging]
-    url: http://update.gitter.im/win/latest
 
   - name: Notepad++
     tags: [development, tools, editor]

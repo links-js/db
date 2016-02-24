@@ -22,6 +22,14 @@ links:
     tags: [internet, voip]
     url: https://github.com/RowenStipe/qTox-OSX/releases/latest
 
+  - name: Gitter
+    tags: [internet, im]
+    url: http://update.gitter.im/osx/latest
+
+  - name: Line
+    tags: [internet, im, voip]
+    url: https://itunes.apple.com/us/app/line/id539883307
+
   - name: VNC Viewer
     tags: [system, tools, remote]
     url: http://www.realvnc.com/download/binary/1734/
@@ -85,10 +93,6 @@ links:
     tags: [development, tools, version-control, git]
     url: https://central.github.com/mac/latest
     type: file
-
-  - name: Gitter
-    tags: [internet, instant-messaging]
-    url: http://update.gitter.im/osx/latest
 
   - name: IDM UltraEdit
     tags: [development, tools, editor]

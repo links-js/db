@@ -107,6 +107,10 @@ links:
     tags: [internet, voip]
     url: https://www.teamspeak.com/downloads
 
+  - name: HexChat
+    tags: [internet, im, irc]
+    url: https://hexchat.github.io/downloads.html
+
   - name: MusicBrainz Picard
     tags: [multimedia, audio, tag-editor]
     url: https://picard.musicbrainz.org/downloads/
@@ -134,10 +138,6 @@ links:
   - name: HandBrake
     tags: [multimedia, video, converter]
     url: https://handbrake.fr/downloads.php
-
-  - name: HexChat
-    tags: [internet, instant-messaging, irc]
-    url: https://hexchat.github.io/downloads.html
 
   - name: PhpStorm EAP
     tags: [development, tools, ide, jetbrains]

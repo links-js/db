@@ -18,6 +18,14 @@ links:
     url: https://build.tox.chat/view/Clients/job/qTox_build_linux_x86-64_release/lastSuccessfulBuild/artifact/qTox_build_linux_x86-64_release.tar.xz
     type: file
 
+  - name: Gitter (32-bit)
+    tags: [internet, im]
+    url: http://update.gitter.im/linux32/latest
+
+  - name: Gitter (64-bit)
+    tags: [internet, im]
+    url: http://update.gitter.im/linux64/latest
+
   - name: VNC Viewer (32-bit)
     tags: [system, tools, remote]
     url: http://www.realvnc.com/download/binary/1736/
@@ -93,14 +101,6 @@ links:
   - name: Git
     tags: [development, tools, version-control, git]
     url: https://git-scm.com/download/linux
-
-  - name: Gitter (32-bit)
-    tags: [internet, instant-messaging]
-    url: http://update.gitter.im/linux32/latest
-
-  - name: Gitter (64-bit)
-    tags: [internet, instant-messaging]
-    url: http://update.gitter.im/linux64/latest
 
   - name: IDM UltraEdit
     tags: [development, tools, editor]
