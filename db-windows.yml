@@ -144,11 +144,11 @@ links:
     url: http://www.freac.org/index.php/en/downloads-mainmenu-33
 
   - name: IrfanView (64-bit)
-    tags: [multimedia, graphics]
+    tags: [multimedia, graphics, viewer]
     url: http://www.irfanview.com/64bit.htm
 
   - name: IrfanView (64-bit) (Test version)
-    tags: [multimedia, graphics]
+    tags: [multimedia, graphics, viewer]
     url: http://www.irfanview.info/test/iview64_test.zip
     type: file
 
