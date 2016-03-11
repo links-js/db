@@ -686,3 +686,7 @@ links:
     tags: [internet, tools, upload]
     url: https://puush.me/dl/puush.msi
     type: file
+
+  - name: JPSoft Take Command & TCC
+    tags: [development, tools, shell, command-line]
+    url: https://jpsoft.com/all-downloads/downloads.html
