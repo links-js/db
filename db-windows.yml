@@ -690,3 +690,7 @@ links:
   - name: JPSoft Take Command & TCC
     tags: [development, tools, shell, command-line]
     url: https://jpsoft.com/all-downloads/downloads.html
+
+  - name: ffmpeg
+    tags: [multimedia, video, tools]
+    url: https://ffmpeg.zeranoe.com/builds/

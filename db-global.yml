@@ -222,3 +222,15 @@ links:
   - name: VeraCrypt
     tags: [system, security]
     url: https://veracrypt.codeplex.com/releases
+
+  - name: youtube-dl
+    tags: [multimedia, video, tools]
+    url: http://rg3.github.io/youtube-dl/download.html
+
+  - name: Flash Player
+    tags: [internet, plugin]
+    url: https://get.adobe.com/flashplayer/otherversions/
+
+  - name: Flash Player (Beta)
+    tags: [internet, plugin]
+    url: http://labs.adobe.com/downloads/flashplayer.html
