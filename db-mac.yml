@@ -97,3 +97,11 @@ links:
   - name: IDM UltraEdit
     tags: [development, tools, editor]
     url: http://www.ultraedit.com/downloads/uex.html
+
+  - name: GPGTools
+    tags: [system, tools, security, gnupg, gpg, pgp]
+    url: https://gpgtools.org/
+
+  - name: GnuPG
+    tags: [system, tools, security, gnupg, gpg, pgp]
+    url: https://sourceforge.net/p/gpgosx/docu/Download/

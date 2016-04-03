@@ -694,3 +694,7 @@ links:
   - name: ffmpeg
     tags: [multimedia, video, tools]
     url: https://ffmpeg.zeranoe.com/builds/
+
+  - name: Gpg4win
+    tags: [system, tools, security, gnupg, gpg, pgp]
+    url: https://www.gpg4win.org/download.html
