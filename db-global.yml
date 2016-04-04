@@ -234,3 +234,11 @@ links:
   - name: Flash Player (Beta)
     tags: [internet, plugin]
     url: http://labs.adobe.com/downloads/flashplayer.html
+
+  - name: OBS Classic
+    tags: [multimedia, tools, streaming]
+    url: https://github.com/jp9000/OBS/releases/latest
+
+  - name: OBS Studio
+    tags: [multimedia, tools, streaming]
+    url: https://github.com/jp9000/obs-studio/releases/latest
