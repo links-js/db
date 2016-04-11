@@ -57,11 +57,11 @@ links:
     type: file
 
   - name: Audacity Portable
-    tags: [multimedia, audio]
+    tags: [multimedia, audio, editor]
     url: http://portableapps.com/apps/music_video/audacity_portable
 
   - name: Audacity
-    tags: [multimedia, audio]
+    tags: [multimedia, audio, editor]
     url: http://sourceforge.net/projects/audacity/files/latest/download
 
   - name: Last.fm Scrobbler
@@ -72,6 +72,15 @@ links:
   - name: foobar2000
     tags: [multimedia, audio, player]
     url: http://www.foobar2000.org/download
+
+  - name: Monkey's Audio
+    tags: [multimedia, audio]
+    url: http://www.monkeysaudio.com/download.html
+
+  - name: Medieval CUE Splitter
+    tags: [multimedia, audio, tools]
+    url: http://www.medieval.it/sw/cuesplitter_setup.exe
+    type: file
 
   - name: BitDefender Anti-virus
     tags: [system, security, anti-virus]
