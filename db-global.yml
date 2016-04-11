@@ -67,6 +67,10 @@ links:
     tags: [multimedia, video, player]
     url: http://download.videolan.org/pub/videolan/vlc/
 
+  - name: Livestreamer
+    tags: [multimedia, video, tools]
+    url: http://docs.livestreamer.io/install.html
+
   - name: hubiC
     tags: [internet, cloud]
     url: https://hubic.com/en/downloads
