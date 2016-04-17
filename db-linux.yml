@@ -105,3 +105,7 @@ links:
   - name: IDM UltraEdit
     tags: [development, tools, editor]
     url: http://www.ultraedit.com/downloads/uex.html
+
+  - name: ZeroMQ (Debian)
+    tags: [development, platform, zeromq]
+    url: http://zeromq.org/distro:debian
