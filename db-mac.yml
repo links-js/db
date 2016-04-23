@@ -105,3 +105,7 @@ links:
   - name: GnuPG
     tags: [system, tools, security, gnupg, gpg, pgp]
     url: https://sourceforge.net/p/gpgosx/docu/Download/
+
+  - name: Camtasia Studio
+    tags: [multimedia, video, recorder]
+    url: http://download.techsmith.com/camtasiamac/enu/Camtasia.dmg

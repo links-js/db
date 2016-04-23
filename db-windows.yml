@@ -707,3 +707,7 @@ links:
   - name: Gpg4win
     tags: [system, tools, security, gnupg, gpg, pgp]
     url: https://www.gpg4win.org/download.html
+
+  - name: Camtasia Studio
+    tags: [multimedia, video, recorder]
+    url: http://download.techsmith.com/camtasiastudio/enu/camtasia.exe
