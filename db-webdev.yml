@@ -1,0 +1,64 @@
+links:
+  - name: Stylus
+    tags: [css, language]
+    url: http://stylus-lang.com/
+
+  - name: SASS
+    tags: [css, language]
+    url: http://sass-lang.com/
+
+  - name: Less
+    tags: [css, language]
+    url: http://lesscss.org/
+
+  - name: Jade (Pug)
+    tags: [html, language]
+    url: http://jade-lang.com/
+
+  - name: Haml
+    tags: [html, language]
+    url: http://haml.info/
+
+  - name: EJS
+    tags: [javascript, templating]
+    url: http://ejs.co/
+
+  - name: Mustache
+    tags: [javascript, templating]
+    url: https://mustache.github.io/
+
+  - name: Handlebars
+    tags: [javascript, templating]
+    url: http://handlebarsjs.com/
+
+  - name: jQuery
+    tags: [javascript, jquery, library]
+    url: http://jquery.com/
+
+  - name: jQuery Plugins
+    tags: [javascript, jquery, plugins]
+    url: https://plugins.jquery.com/
+
+  - name: Google CDN
+    tags: [javascript, cdn]
+    url: https://developers.google.com/speed/libraries/
+
+  - name: cdnjs
+    tags: [javascript, cdn]
+    url: https://cdnjs.com/
+
+  - name: Bootstrap CDN
+    tags: [css, framework, bootstrap, cdn]
+    url: https://www.bootstrapcdn.com/
+
+  - name: Bootstrap
+    tags: [css, framework, bootstrap]
+    url: http://getbootstrap.com/
+
+  - name: Semantic UI
+    tags: [css, framework]
+    url: http://semantic-ui.com/
+
+  - name: Foundation
+    tags: [css, framework]
+    url: http://foundation.zurb.com/

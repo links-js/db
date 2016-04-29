@@ -1,0 +1,36 @@
+links:
+  - name: NPM
+    tags: [nodejs, npm, homepage]
+    url: https://www.npmjs.com/
+
+  - name: Nipster
+    tags: [nodejs, npm, search]
+    url: http://nipstr.com/
+
+  - name: NPMSearch
+    tags: [nodejs, npm, search]
+    url: https://npmsearch.com/
+
+  - name: Bower
+    tags: [nodejs, bower, homepage]
+    url: http://bower.io/
+
+  - name: Bower Search
+    tags: [nodejs, bower, search]
+    url: http://bower.io/search/
+
+  - name: Gulp
+    tags: [nodejs, gulp, homepage]
+    url: http://gulpjs.com/
+
+  - name: Gulp Search
+    tags: [nodejs, gulp, search]
+    url: http://gulpjs.com/plugins/
+
+  - name: Grunt
+    tags: [nodejs, grunt, homepage]
+    url: http://gruntjs.com/
+
+  - name: Grunt Search
+    tags: [nodejs, grunt, search]
+    url: http://gruntjs.com/plugins
