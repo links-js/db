@@ -711,3 +711,7 @@ links:
   - name: Camtasia Studio
     tags: [multimedia, video, recorder]
     url: http://download.techsmith.com/camtasiastudio/enu/camtasia.exe
+
+  - name: Divvy
+    tags: [system, tools, window]
+    url: http://mizage.com/windivvy/

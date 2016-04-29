@@ -109,3 +109,7 @@ links:
   - name: Camtasia Studio
     tags: [multimedia, video, recorder]
     url: http://download.techsmith.com/camtasiamac/enu/Camtasia.dmg
+
+  - name: Divvy
+    tags: [system, tools, window]
+    url: http://mizage.com/divvy/
