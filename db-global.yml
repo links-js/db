@@ -246,3 +246,19 @@ links:
   - name: OBS Studio
     tags: [multimedia, tools, streaming]
     url: https://github.com/jp9000/obs-studio/releases/latest
+
+  - name: Firefox Stable
+    tags: [internet, browser]
+    url: https://www.mozilla.org/en-US/firefox/all/#en-US
+
+  - name: Firefox Beta
+    tags: [internet, browser]
+    url: https://www.mozilla.org/en-US/firefox/beta/all/#en-US
+
+  - name: Firefox Developer Edition
+    tags: [internet, browser]
+    url: https://www.mozilla.org/en-US/firefox/developer/all/#en-US
+
+  - name: Firefox Nightly
+    tags: [internet, browser]
+    url: https://nightly.mozilla.org/
