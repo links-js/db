@@ -34,3 +34,7 @@ links:
   - name: Grunt Search
     tags: [nodejs, grunt, search]
     url: http://gruntjs.com/plugins
+
+  - name: MEAN
+    tags: [nodejs, angularjs, express, mongodb]
+    url: http://mean.io/

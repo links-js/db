@@ -11,6 +11,18 @@ links:
     tags: [css, language]
     url: http://lesscss.org/
 
+  - name: Easing Functions Cheat Sheet
+    tags: [css, learn]
+    url: http://easings.net/
+
+  - name: Flexbox in 5 Minutes
+    tags: [css, learn]
+    url: http://flexboxin5.com/
+
+  - name: HTML5 Up!
+    tags: [css, html, template, gallery, design]
+    url: http://html5up.net/
+
   - name: Jade (Pug)
     tags: [html, language]
     url: http://jade-lang.com/
@@ -18,6 +30,26 @@ links:
   - name: Haml
     tags: [html, language]
     url: http://haml.info/
+
+  - name: Initializr
+    tags: [html, h5bp]
+    url: http://www.initializr.com/
+
+  - name: HTML5 Boilerplate
+    tags: [html, h5bp]
+    url: https://html5boilerplate.com/
+
+  - name: H5BP Boilerplates
+    tags: [html, h5bp]
+    url: https://h5bp.github.io/
+
+  - name: Lorem Ipsum (for HTML)
+    tags: [webdev, tools, html]
+    url: http://html-ipsum.com/
+
+  - name: Meet the Ipsums
+    tags: [webdev, tools]
+    url: http://meettheipsums.com/
 
   - name: EJS
     tags: [javascript, templating]
@@ -38,6 +70,18 @@ links:
   - name: jQuery Plugins
     tags: [javascript, jquery, plugins]
     url: https://plugins.jquery.com/
+
+  - name: Unheap
+    tags: [javascript, jquery, plugins]
+    url: http://www.unheap.com/
+
+  - name: jQuery API
+    tags: [javascript, jquery, api]
+    url: http://api.jquery.com/
+
+  - name: jQAPI
+    tags: [javascript, jquery, api, search]
+    url: http://jqapi.com/
 
   - name: Google CDN
     tags: [javascript, cdn]
@@ -62,3 +106,183 @@ links:
   - name: Foundation
     tags: [css, framework]
     url: http://foundation.zurb.com/
+
+  - name: JSbooks
+    tags: [javascript, books]
+    url: http://jsbooks.revolunet.com/
+
+  - name: Javascript Kicks
+    tags: [javascript, news]
+    url: https://javascriptkicks.com/
+
+  - name: Javascripting
+    tags: [javascript, database]
+    url: http://www.javascripting.com/
+
+  - name: Superhero.js
+    tags: [javascript, learn]
+    url: http://superherojs.com/
+
+  - name: HTML5 Doctor
+    tags: [html, learn]
+    url: http://html5doctor.com/
+
+  - name: Devtools Secrets
+    tags: [devtools, learn]
+    url: http://devtoolsecrets.com/
+
+  - name: Live Coding Classes
+    tags: [webdev, learn, paid]
+    url: http://www.enginehere.com/
+
+  - name: Pineapple
+    tags: [webdev, learn]
+    url: http://pineapple.io/
+
+  - name: Simpl
+    tags: [webdev, learn]
+    url: https://simpl.info/
+
+  - name: How to keep up-to-date on Front-end
+    tags: [webdev, learn]
+    url: https://uptodate.frontendrescue.org/
+
+  - name: Koding
+    tags: [webdev, cloud, editor]
+    url: https://koding.com/
+
+  - name: Cloud9
+    tags: [webdev, cloud, editor]
+    url: https://c9.io/
+
+  - name: Runnable
+    tags: [webdev, cloud, sandbox]
+    url: http://runnable.com/
+
+  - name: WAVE
+    tags: [webdev, accessibility]
+    url: http://wave.webaim.org/
+
+  - name: I want to use
+    tags: [webdev, data]
+    url: http://www.iwanttouse.com/
+
+  - name: Can I use
+    tags: [webdev, data]
+    url: http://caniuse.com/
+
+  - name: Web Developer Tools
+    tags: [webdev, tools]
+    url: https://mothereff.in/
+
+  - name: PageSpeed Test
+    tags: [webdev, test]
+    url: http://www.webpagetest.org/compare
+
+  - name: Performance Test
+    tags: [webdev, test]
+    url: http://www.webpagetest.org/
+
+  - name: Visual Comparison Test
+    tags: [webdev, test]
+    url: http://www.webpagetest.org/video/
+
+  - name: Traceroute Test
+    tags: [webdev, test]
+    url: http://www.webpagetest.org/traceroute
+
+  - name: Web Developer Checklist
+    tags: [webdev, tools]
+    url: http://webdevchecklist.com/
+
+  - name: TLDRLegal
+    tags: [development, license]
+    url: https://tldrlegal.com/
+
+  - name: HoundCI
+    tags: [development, ci]
+    url: https://houndci.com/
+
+  - name: CircleCI
+    tags: [development, ci]
+    url: https://circleci.com/
+
+  - name: CodeMyUI
+    tags: [webdev, design, news]
+    url: http://codemyui.com/
+
+  - name: Codrops
+    tags: [webdev, design, news]
+    url: http://tympanus.net/codrops/
+
+  - name: Web Design Repo
+    tags: [webdev, design, news]
+    url: https://rrrepo.co/repo/webdesign
+
+  - name: TheStocks.im
+    tags: [design, stock-image]
+    url: http://thestocks.im/
+
+  - name: Subtle Patterns
+    tags: [webdev, design, pattern]
+    url: http://subtlepatterns.com/
+
+  - name: Material UI Colors
+    tags: [design, color, material]
+    url: http://materialuicolors.co/
+
+  - name: Flat UI Colors
+    tags: [design, color]
+    url: http://flatuicolors.com/
+
+  - name: Material Palette
+    tags: [design, color, material]
+    url: http://www.materialpalette.com/
+
+  - name: Color Hunt
+    tags: [design, color]
+    url: http://www.colorhunt.co/
+
+  - name: Coolors
+    tags: [design, color]
+    url: https://coolors.co/
+
+  - name: Colour Lovers
+    tags: [design, color]
+    url: http://www.colourlovers.com/
+
+  - name: Colour Code
+    tags: [design, color]
+    url: http://www.colourco.de/
+
+  - name: Colordot
+    tags: [design, color, picker]
+    url: https://color.hailpixel.com/
+
+  - name: Unique Gradient Generator
+    tags: [design, gradient]
+    url: http://gradient.quasi.ink/
+
+  - name: Practical Typography
+    tags: [design, typography]
+    url: http://practicaltypography.com/
+
+  - name: We Love Icon Fonts
+    tags: [design, font]
+    url: http://weloveiconfonts.com/
+
+  - name: LivIcons
+    tags: [design, font, css, animated]
+    url: http://livicons.com/
+
+  - name: Dealjumbo Freebies
+    tags: [design, free]
+    url: http://dealjumbo.com/downloads/category/freebies/
+
+  - name: WhatFont
+    tags: [design, font, tools, bookmarklet]
+    url: http://chengyinliu.com/whatfont.html
+
+  - name: WhatTheFont
+    tags: [design, font, tools]
+    url: https://www.myfonts.com/WhatTheFont/
