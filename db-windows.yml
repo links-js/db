@@ -82,8 +82,8 @@ links:
     url: http://www.medieval.it/sw/cuesplitter_setup.exe
     type: file
 
-  - name: BitDefender Anti-virus
-    tags: [system, security, anti-virus]
+  - name: BitDefender Antivirus
+    tags: [system, security, antivirus]
     url: http://download.bitdefender.com/windows/installer/en-us/bitdefender_antivirus.exe
     type: file
 
@@ -529,7 +529,7 @@ links:
     url: http://www.insanelymac.com/forum/files/file/339-unlocker/
 
   - name: ESED NOD32 (64-bit)
-    tags: [system, security, anti-virus]
+    tags: [system, security, antivirus]
     url: http://www.eset.com/int/download//home/detail/family/2?installer=offline#offline,231,ENU,,,
 
   - name: 7++ Task Tweaker
@@ -667,11 +667,11 @@ links:
     url: https://notepad-plus-plus.org/download/
 
   - name: VirusTotal Uploader
-    tags: [system, security, anti-virus]
+    tags: [system, security, antivirus]
     url: https://www.virustotal.com/en/documentation/desktop-applications/
 
   - name: PhrozenSoft VirusTotal Uploader
-    tags: [system, security, anti-virus]
+    tags: [system, security, antivirus]
     url: http://www.softpedia.com/get/System/OS-Enhancements/PhrozenSoft-VirusTotal-Uploader.shtml#download
 
   - name: IDM UltraEdit

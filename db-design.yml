@@ -1,0 +1,36 @@
+links:
+  - name: Material UI Colors
+    tags: [design, color, material]
+    url: http://materialuicolors.co/
+
+  - name: Flat UI Colors
+    tags: [design, color]
+    url: http://flatuicolors.com/
+
+  - name: Material Palette
+    tags: [design, color, material]
+    url: http://www.materialpalette.com/
+
+  - name: Color Hunt
+    tags: [design, color]
+    url: http://www.colorhunt.co/
+
+  - name: Coolors
+    tags: [design, color]
+    url: https://coolors.co/
+
+  - name: Colour Lovers
+    tags: [design, color]
+    url: http://www.colourlovers.com/
+
+  - name: Colour Code
+    tags: [design, color]
+    url: http://www.colourco.de/
+
+  - name: Colordot
+    tags: [design, color, picker]
+    url: https://color.hailpixel.com/
+
+  - name: TheStocks.im
+    tags: [design, stock-image]
+    url: http://thestocks.im/
