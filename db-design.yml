@@ -34,3 +34,63 @@ links:
   - name: TheStocks.im
     tags: [design, stock-image]
     url: http://thestocks.im/
+
+  - name: MorgueFile
+    tags: [design, stock-image]
+    url: https://www.morguefile.com/
+
+  - name: Pixabay
+    tags: [design, stock-image]
+    url: https://pixabay.com/
+
+  - name: StockSnap
+    tags: [design, stock-image]
+    url: https://stocksnap.io/
+
+  - name: Unsplash
+    tags: [design, stock-image]
+    url: https://unsplash.com/
+
+  - name: RaumRot
+    tags: [design, stock-image]
+    url: http://raumrot.com/
+
+  - name: Negative Space
+    tags: [design, stock-image]
+    url: http://negativespace.co/photos/
+
+  - name: Foodies Feed
+    tags: [design, stock-image]
+    url: https://foodiesfeed.com/
+
+  - name: SplitShire
+    tags: [design, stock-image]
+    url: http://www.splitshire.com/
+
+  - name: Gratisography
+    tags: [design, stock-image]
+    url: http://gratisography.com/
+
+  - name: Life of Pix
+    tags: [design, stock-image]
+    url: http://www.lifeofpix.com/
+
+  - name: IM Free
+    tags: [design, stock-image]
+    url: http://www.imcreator.com/free
+
+  - name: Superfamous
+    tags: [design, stock-image]
+    url: http://images.superfamous.com/
+
+  - name: FreeStocks
+    tags: [design, stock-image]
+    url: http://freestocks.org/
+
+  - name: The Noun Project
+    tags: [design, icon]
+    url: https://thenounproject.com/
+
+  - name: Game Icons
+    tags: [design, icon]
+    url: http://game-icons.net/
