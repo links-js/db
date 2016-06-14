@@ -27,6 +27,10 @@ links:
     tags: [utils]
     url: http://ankisrs.net/#download
 
+  - name: GoboLinux
+    tags: [system, linux]
+    url: http://www.gobolinux.org/index.php?page=downloads
+
   - name: ArchLinux
     tags: [system, linux]
     url: http://mirror.rackspace.com/archlinux/iso/
@@ -262,3 +266,7 @@ links:
   - name: Firefox Nightly
     tags: [internet, browser]
     url: https://nightly.mozilla.org/
+
+  - name: FileZilla
+    tags: [internet, ftp]
+    url: https://filezilla-project.org/download.php?show_all=1
