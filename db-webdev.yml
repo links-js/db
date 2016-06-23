@@ -211,6 +211,10 @@ links:
     tags: [development, ci]
     url: https://travis-ci.org/
 
+  - name: AppVeyor
+    tags: [development, ci]
+    url: https://www.appveyor.com/
+
   - name: CodeMyUI
     tags: [webdev, design, news]
     url: http://codemyui.com/
