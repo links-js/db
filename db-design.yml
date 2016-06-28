@@ -1,96 +1,125 @@
 links:
   - name: Material UI Colors
     tags: [design, color, material]
+    type: bookmark
     url: http://materialuicolors.co/
 
   - name: Flat UI Colors
     tags: [design, color]
+    type: bookmark
     url: http://flatuicolors.com/
 
   - name: Material Palette
     tags: [design, color, material]
+    type: bookmark
     url: http://www.materialpalette.com/
 
   - name: Color Hunt
     tags: [design, color]
+    type: bookmark
     url: http://www.colorhunt.co/
 
-  - name: Coolors
+  - name: Coolors (Generator)
     tags: [design, color]
-    url: https://coolors.co/
+    type: bookmark
+    url: https://coolors.co/app
+
+  - name: Coolors (Browser)
+    tags: [design, color]
+    type: bookmark
+    url: https://coolors.co/browser
 
   - name: Colour Lovers
     tags: [design, color]
+    type: bookmark
     url: http://www.colourlovers.com/
 
   - name: Colour Code
     tags: [design, color]
+    type: bookmark
     url: http://www.colourco.de/
 
   - name: Colordot
     tags: [design, color, picker]
+    type: bookmark
     url: https://color.hailpixel.com/
 
   - name: TheStocks.im
     tags: [design, stock-image]
+    type: bookmark
     url: http://thestocks.im/
 
   - name: MorgueFile
     tags: [design, stock-image]
+    type: bookmark
     url: https://www.morguefile.com/
 
   - name: Pixabay
     tags: [design, stock-image]
+    type: bookmark
     url: https://pixabay.com/
 
   - name: StockSnap
     tags: [design, stock-image]
+    type: bookmark
     url: https://stocksnap.io/
 
   - name: Unsplash
     tags: [design, stock-image]
+    type: bookmark
     url: https://unsplash.com/
 
   - name: RaumRot
     tags: [design, stock-image]
+    type: bookmark
     url: http://raumrot.com/
 
   - name: Negative Space
     tags: [design, stock-image]
+    type: bookmark
     url: http://negativespace.co/photos/
 
   - name: Foodies Feed
     tags: [design, stock-image]
+    type: bookmark
     url: https://foodiesfeed.com/
 
   - name: SplitShire
     tags: [design, stock-image]
+    type: bookmark
     url: http://www.splitshire.com/
 
   - name: Gratisography
     tags: [design, stock-image]
+    type: bookmark
     url: http://gratisography.com/
 
   - name: Life of Pix
     tags: [design, stock-image]
+    type: bookmark
     url: http://www.lifeofpix.com/
 
   - name: IM Free
     tags: [design, stock-image]
+    type: bookmark
     url: http://www.imcreator.com/free
 
   - name: Superfamous
     tags: [design, stock-image]
+    type: bookmark
     url: http://images.superfamous.com/
 
   - name: FreeStocks
     tags: [design, stock-image]
+    type: bookmark
     url: http://freestocks.org/
 
   - name: The Noun Project
     tags: [design, icon]
+    type: bookmark
     url: https://thenounproject.com/
 
   - name: Game Icons
     tags: [design, icon]
+    type: bookmark
     url: http://game-icons.net/
