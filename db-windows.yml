@@ -715,3 +715,8 @@ links:
   - name: Divvy
     tags: [system, tools, window]
     url: http://mizage.com/windivvy/
+
+  - name: mIRC
+    tags: [internet, im, irc]
+    url: http://www.mirc.com/get.php
+    type: file
