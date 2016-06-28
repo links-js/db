@@ -1,260 +1,325 @@
 links:
   - name: Stylus
     tags: [css, language]
+    type: bookmark
     url: http://stylus-lang.com/
 
   - name: SASS
     tags: [css, language]
+    type: bookmark
     url: http://sass-lang.com/
 
   - name: Less
     tags: [css, language]
+    type: bookmark
     url: http://lesscss.org/
 
   - name: Easing Functions Cheat Sheet
     tags: [css, learn]
+    type: bookmark
     url: http://easings.net/
 
   - name: Flexbox in 5 Minutes
     tags: [css, learn]
+    type: bookmark
     url: http://flexboxin5.com/
 
   - name: HTML5 Up!
     tags: [css, html, template, gallery, design]
+    type: bookmark
     url: http://html5up.net/
 
   - name: Jade (Pug)
     tags: [html, language]
+    type: bookmark
     url: http://jade-lang.com/
 
   - name: Haml
     tags: [html, language]
+    type: bookmark
     url: http://haml.info/
 
   - name: Initializr
     tags: [html, h5bp]
+    type: bookmark
     url: http://www.initializr.com/
 
   - name: HTML5 Boilerplate
     tags: [html, h5bp]
+    type: bookmark
     url: https://html5boilerplate.com/
 
   - name: H5BP Boilerplates
     tags: [html, h5bp]
+    type: bookmark
     url: https://h5bp.github.io/
 
   - name: Lorem Ipsum (for HTML)
     tags: [webdev, tools, html]
+    type: bookmark
     url: http://html-ipsum.com/
 
   - name: Meet the Ipsums
     tags: [webdev, tools]
+    type: bookmark
     url: http://meettheipsums.com/
 
   - name: EJS
     tags: [javascript, templating]
+    type: bookmark
     url: http://ejs.co/
 
   - name: Mustache
     tags: [javascript, templating]
+    type: bookmark
     url: https://mustache.github.io/
 
   - name: Handlebars
     tags: [javascript, templating]
+    type: bookmark
     url: http://handlebarsjs.com/
 
   - name: jQuery
     tags: [javascript, jquery, library]
+    type: bookmark
     url: http://jquery.com/
 
   - name: jQuery Plugins
     tags: [javascript, jquery, plugins]
+    type: bookmark
     url: https://plugins.jquery.com/
 
   - name: Unheap
     tags: [javascript, jquery, plugins]
+    type: bookmark
     url: http://www.unheap.com/
 
   - name: jQuery API
     tags: [javascript, jquery, api]
+    type: bookmark
     url: http://api.jquery.com/
 
   - name: jQAPI
     tags: [javascript, jquery, api, search]
+    type: bookmark
     url: http://jqapi.com/
 
   - name: Google CDN
     tags: [javascript, cdn]
+    type: bookmark
     url: https://developers.google.com/speed/libraries/
 
   - name: cdnjs
     tags: [javascript, cdn]
+    type: bookmark
     url: https://cdnjs.com/
 
   - name: Bootstrap CDN
     tags: [css, framework, bootstrap, cdn]
+    type: bookmark
     url: https://www.bootstrapcdn.com/
 
   - name: Bootstrap
     tags: [css, framework, bootstrap]
+    type: bookmark
     url: http://getbootstrap.com/
 
   - name: Semantic UI
     tags: [css, framework]
+    type: bookmark
     url: http://semantic-ui.com/
 
   - name: Foundation
     tags: [css, framework]
+    type: bookmark
     url: http://foundation.zurb.com/
 
   - name: JSbooks
     tags: [javascript, books]
+    type: bookmark
     url: http://jsbooks.revolunet.com/
 
   - name: Javascript Kicks
     tags: [javascript, news]
+    type: bookmark
     url: https://javascriptkicks.com/
 
   - name: Javascripting
     tags: [javascript, database]
+    type: bookmark
     url: http://www.javascripting.com/
 
   - name: Superhero.js
     tags: [javascript, learn]
+    type: bookmark
     url: http://superherojs.com/
 
   - name: HTML5 Doctor
     tags: [html, learn]
+    type: bookmark
     url: http://html5doctor.com/
 
   - name: Devtools Secrets
     tags: [devtools, learn]
+    type: bookmark
     url: http://devtoolsecrets.com/
 
   - name: Live Coding Classes
     tags: [webdev, learn, paid]
+    type: bookmark
     url: http://www.enginehere.com/
 
   - name: Pineapple
     tags: [webdev, learn]
+    type: bookmark
     url: http://pineapple.io/
 
   - name: Simpl
     tags: [webdev, learn]
+    type: bookmark
     url: https://simpl.info/
 
   - name: How to keep up-to-date on Front-end
     tags: [webdev, learn]
+    type: bookmark
     url: https://uptodate.frontendrescue.org/
 
   - name: Koding
     tags: [webdev, cloud, editor]
+    type: bookmark
     url: https://koding.com/
 
   - name: Cloud9
     tags: [webdev, cloud, editor]
+    type: bookmark
     url: https://c9.io/
 
   - name: Runnable
     tags: [webdev, cloud, sandbox]
+    type: bookmark
     url: http://runnable.com/
 
   - name: WAVE
     tags: [webdev, accessibility]
+    type: bookmark
     url: http://wave.webaim.org/
 
   - name: I want to use
     tags: [webdev, data]
+    type: bookmark
     url: http://www.iwanttouse.com/
 
   - name: Can I use
     tags: [webdev, data]
+    type: bookmark
     url: http://caniuse.com/
 
   - name: Web Developer Tools
     tags: [webdev, tools]
+    type: bookmark
     url: https://mothereff.in/
 
   - name: PageSpeed Test
     tags: [webdev, test]
+    type: bookmark
     url: http://www.webpagetest.org/compare
 
   - name: Performance Test
     tags: [webdev, test]
+    type: bookmark
     url: http://www.webpagetest.org/
 
   - name: Visual Comparison Test
     tags: [webdev, test]
+    type: bookmark
     url: http://www.webpagetest.org/video/
 
   - name: Traceroute Test
     tags: [webdev, test]
+    type: bookmark
     url: http://www.webpagetest.org/traceroute
 
   - name: Web Developer Checklist
     tags: [webdev, tools]
+    type: bookmark
     url: http://webdevchecklist.com/
 
   - name: TLDRLegal
     tags: [development, license]
+    type: bookmark
     url: https://tldrlegal.com/
 
   - name: HoundCI
     tags: [development, ci]
+    type: bookmark
     url: https://houndci.com/
 
   - name: CircleCI
     tags: [development, ci]
+    type: bookmark
     url: https://circleci.com/
 
   - name: Travis CI
     tags: [development, ci]
+    type: bookmark
     url: https://travis-ci.org/
 
   - name: AppVeyor
     tags: [development, ci]
+    type: bookmark
     url: https://www.appveyor.com/
 
   - name: CodeMyUI
     tags: [webdev, design, news]
+    type: bookmark
     url: http://codemyui.com/
 
   - name: Codrops
     tags: [webdev, design, news]
+    type: bookmark
     url: http://tympanus.net/codrops/
 
   - name: Web Design Repo
     tags: [webdev, design, news]
+    type: bookmark
     url: https://rrrepo.co/repo/webdesign
 
   - name: Subtle Patterns
     tags: [webdev, design, pattern]
+    type: bookmark
     url: http://subtlepatterns.com/
 
   - name: Unique Gradient Generator
     tags: [design, gradient]
+    type: bookmark
     url: http://gradient.quasi.ink/
 
   - name: Practical Typography
     tags: [design, typography]
+    type: bookmark
     url: http://practicaltypography.com/
 
   - name: We Love Icon Fonts
     tags: [design, font]
+    type: bookmark
     url: http://weloveiconfonts.com/
 
   - name: LivIcons
     tags: [design, font, css, animated]
+    type: bookmark
     url: http://livicons.com/
 
   - name: Dealjumbo Freebies
     tags: [design, free]
+    type: bookmark
     url: http://dealjumbo.com/downloads/category/freebies/
 
   - name: WhatFont
     tags: [design, font, tools, bookmarklet]
+    type: bookmark
     url: http://chengyinliu.com/whatfont.html
 
   - name: WhatTheFont
     tags: [design, font, tools]
+    type: bookmark
     url: https://www.myfonts.com/WhatTheFont/

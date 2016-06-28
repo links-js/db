@@ -1,40 +1,50 @@
 links:
   - name: NPM
     tags: [nodejs, npm, homepage]
+    type: bookmark
     url: https://www.npmjs.com/
 
   - name: Nipster
     tags: [nodejs, npm, search]
+    type: bookmark
     url: http://nipstr.com/
 
   - name: NPMSearch
     tags: [nodejs, npm, search]
+    type: bookmark
     url: https://npmsearch.com/
 
   - name: Bower
     tags: [nodejs, bower, homepage]
+    type: bookmark
     url: http://bower.io/
 
   - name: Bower Search
     tags: [nodejs, bower, search]
+    type: bookmark
     url: http://bower.io/search/
 
   - name: Gulp
     tags: [nodejs, gulp, homepage]
+    type: bookmark
     url: http://gulpjs.com/
 
   - name: Gulp Search
     tags: [nodejs, gulp, search]
+    type: bookmark
     url: http://gulpjs.com/plugins/
 
   - name: Grunt
     tags: [nodejs, grunt, homepage]
+    type: bookmark
     url: http://gruntjs.com/
 
   - name: Grunt Search
     tags: [nodejs, grunt, search]
+    type: bookmark
     url: http://gruntjs.com/plugins
 
   - name: MEAN
     tags: [nodejs, angularjs, express, mongodb]
+    type: bookmark
     url: http://mean.io/
