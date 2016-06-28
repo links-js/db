@@ -1,0 +1,20 @@
+links:
+  - name: VirusTotal
+    tags: [virus-scanner]
+    type: bookmark
+    url: https://www.virustotal.com/
+
+  - name: NetQin Online Virus Scan
+    tags: [virus-scanner]
+    type: bookmark
+    url: http://scan.netqin.com/en/
+
+  - name: NVISO ApkScan
+    tags: [virus-scanner, apk, android]
+    type: bookmark
+    url: https://apkscan.nviso.be/
+
+  - name: AndroTotal
+    tags: [virus-scanner, apk, android]
+    type: bookmark
+    url: http://andrototal.org/

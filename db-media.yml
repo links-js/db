@@ -1,0 +1,45 @@
+links:
+  - name: A Soft Murmur
+    tags: [music, noise]
+    type: bookmark
+    url: http://asoftmurmur.com/
+
+  - name: Brain.fm
+    tags: [music, noise]
+    type: bookmark
+    url: https://www.brain.fm/
+
+  - name: Noisli
+    tags: [music, noise]
+    type: bookmark
+    url: http://www.noisli.com/
+
+  - name: myNoise
+    tags: [music, noise]
+    type: bookmark
+    url: https://mynoise.net/
+
+  - name: Coffitivity
+    tags: [music, noise]
+    type: bookmark
+    url: https://coffitivity.com/
+
+  - name: Hype Machine
+    tags: [music, popular]
+    type: bookmark
+    url: http://hypem.com/
+
+  - name: Gnoosic
+    tags: [music, recommend, discover]
+    type: bookmark
+    url: http://www.gnoosic.com/
+
+  - name: A Good Movie To Watch
+    tags: [movie, recommend]
+    type: bookmark
+    url: http://agoodmovietowatch.com/
+
+  - name: Documentary Heaven
+    tags: [documentary]
+    type: bookmark
+    url: http://documentaryheaven.com/
