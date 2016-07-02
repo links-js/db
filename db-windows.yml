@@ -720,3 +720,11 @@ links:
     tags: [internet, im, irc]
     url: http://www.mirc.com/get.php
     type: file
+
+  - name: RDG Packer Detector
+    tags: [development, tools, detector]
+    url: http://www.rdgsoft.net/
+
+  - name: PEiD
+    tags: [development, tools, detector]
+    url: http://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml
