@@ -270,3 +270,7 @@ links:
   - name: FileZilla
     tags: [internet, ftp]
     url: https://filezilla-project.org/download.php?show_all=1
+
+  - name: Detect It Easy (DIE)
+    tags: [development, tools, detector]
+    url: http://ntinfo.biz/
