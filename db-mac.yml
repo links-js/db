@@ -30,6 +30,10 @@ links:
     tags: [internet, im, voip]
     url: https://itunes.apple.com/us/app/line/id539883307
 
+  - name: KakaoTalk
+    tags: [internet, im, voip]
+    url: https://itunes.apple.com/en/app/kakaotog/id869223134
+
   - name: VNC Viewer
     tags: [system, tools, remote]
     url: http://www.realvnc.com/download/binary/1734/

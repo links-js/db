@@ -274,3 +274,7 @@ links:
   - name: Detect It Easy (DIE)
     tags: [development, tools, detector]
     url: http://ntinfo.biz/
+
+  - name: AirDroid Desktop
+    tags: [android, file-transfer, remote-control]
+    url: https://www.airdroid.com/get.html

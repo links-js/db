@@ -297,6 +297,10 @@ links:
     url: http://cdn.line-apps.com/client/win/new/LineInst.exe
     type: file
 
+  - name: KakaoTalk
+    tags: [internet, im, voip]
+    url: http://app.pc.kakao.com/talk/win32/KakaoTalk_Setup.exe
+
   - name: Caffeine
     tags: [system, tools, sleep]
     url: http://www.zhornsoftware.co.uk/caffeine/caffeine.zip
