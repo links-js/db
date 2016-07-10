@@ -156,10 +156,13 @@ links:
     tags: [multimedia, graphics, viewer]
     url: http://www.irfanview.com/64bit.htm
 
+  - name: IrfanView (32-bit) (Test version)
+    tags: [multimedia, graphics, viewer]
+    url: http://www.irfanview.info/test/iview32_test.zip
+
   - name: IrfanView (64-bit) (Test version)
     tags: [multimedia, graphics, viewer]
     url: http://www.irfanview.info/test/iview64_test.zip
-    type: file
 
   - name: XnView MP (32-bit) (Setup)
     tags: [multimedia, graphics, viewer]
