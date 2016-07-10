@@ -380,6 +380,7 @@ links:
   - name: Taiga
     tags: [internet, anime]
     url: http://taiga.erengy.com/download.php
+    type: file
 
   - name: Mal Updater (Installer)
     tags: [internet, anime]
