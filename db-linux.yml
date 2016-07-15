@@ -109,3 +109,7 @@ links:
   - name: ZeroMQ (Debian)
     tags: [development, platform, zeromq]
     url: http://zeromq.org/distro:debian
+
+  - name: Inkscape
+    tags: [multimedia, graphics, svg]
+    url: https://inkscape.org/en/download/linux/

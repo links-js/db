@@ -736,3 +736,7 @@ links:
   - name: PEiD
     tags: [development, tools, detector]
     url: http://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/PEiD-updated.shtml
+
+  - name: Inkscape
+    tags: [multimedia, graphics, svg]
+    url: https://inkscape.org/en/download/windows/

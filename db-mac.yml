@@ -117,3 +117,7 @@ links:
   - name: Divvy
     tags: [system, tools, window]
     url: http://mizage.com/divvy/
+
+  - name: Inkscape
+    tags: [multimedia, graphics, svg]
+    url: https://inkscape.org/en/download/mac-os/
