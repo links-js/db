@@ -765,3 +765,7 @@ links:
     tags: [utils, text-expander]
     url: http://www.16software.com/breevy/BreevyPortable.zip
     type: file
+
+  - name: TextExpander
+    tags: [utils, text-expander]
+    url: https://textexpander.com/download/?platform=Windows

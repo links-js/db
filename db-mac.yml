@@ -121,3 +121,7 @@ links:
   - name: Inkscape
     tags: [multimedia, graphics, svg]
     url: https://inkscape.org/en/download/mac-os/
+
+  - name: TextExpander
+    tags: [utils, text-expander]
+    url: https://textexpander.com/download/?platform=Mac
