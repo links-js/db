@@ -740,3 +740,28 @@ links:
   - name: Inkscape
     tags: [multimedia, graphics, svg]
     url: https://inkscape.org/en/download/windows/
+
+  - name: PhraseExpress
+    tags: [utils, text-expander]
+    url: http://www.phraseexpress.com/PhraseExpressSetup.exe
+    type: file
+
+  - name: PhraseExpress (Portable)
+    tags: [utils, text-expander]
+    url: http://www.phraseexpress.com/PhraseExpress_USB.zip
+    type: file
+
+  - name: Breevy
+    tags: [utils, text-expander]
+    url: http://www.16software.com/breevy/Breevy_Setup.exe
+    type: file
+
+  - name: Breevy (PortableApps)
+    tags: [utils, text-expander]
+    url: http://www.16software.com/breevy/BreevyPortable.paf.exe
+    type: file
+
+  - name: Breevy (Portable)
+    tags: [utils, text-expander]
+    url: http://www.16software.com/breevy/BreevyPortable.zip
+    type: file
