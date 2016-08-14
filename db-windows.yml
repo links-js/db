@@ -769,3 +769,17 @@ links:
   - name: TextExpander
     tags: [utils, text-expander]
     url: https://textexpander.com/download/?platform=Windows
+
+  - name: Screen To Gif
+    tags: [multimedia, video, gif, recorder]
+    url: https://screentogif.codeplex.com/releases
+
+  - name: GifCam
+    tags: [multimedia, video, gif, recorder]
+    url: http://www.bahraniapps.com/apps/gifcam/gifcam.php
+    type: file
+
+  - name: Malwarebytes Anti-Malware
+    tags: [system, security, antivirus]
+    url: https://downloads.malwarebytes.com/file/mbam_current/
+    type: file
