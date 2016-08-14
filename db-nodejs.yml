@@ -48,3 +48,8 @@ links:
     tags: [nodejs, angularjs, express, mongodb]
     type: bookmark
     url: http://mean.io/
+  
+  - name: Bunyan Logger
+    tags: [nodejs, npm, logger]
+    type: bookmark
+    url: https://github.com/trentm/node-bunyan
