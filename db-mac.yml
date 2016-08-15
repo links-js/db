@@ -125,3 +125,16 @@ links:
   - name: TextExpander
     tags: [utils, text-expander]
     url: https://textexpander.com/download/?platform=Mac
+
+  - name: Quiver
+    tags: [productivity, utils, note-taking]
+    url: http://happenapps.com/#quiver
+
+  - name: MacDown
+    tags: [productivity, utils, note-taking, markdown]
+    url: http://macdown.uranusjr.com/
+
+  - name: Caret 
+    tags: [productivity, utils, note-taking, markdown]
+    url: https://caret.io/
+    
