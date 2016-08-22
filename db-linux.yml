@@ -113,3 +113,8 @@ links:
   - name: Inkscape
     tags: [multimedia, graphics, svg]
     url: https://inkscape.org/en/download/linux/
+
+  - name: VMware Workstation (64-bit)
+    tags: [system, virtual-machine]
+    url: http://www.vmware.com/go/tryworkstation-linux-64
+    type: file

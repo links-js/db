@@ -532,6 +532,11 @@ links:
     tags: [system, tools]
     url: https://www.techpowerup.com/downloads/SysInfo/GPU-Z/
 
+  - name: VMware Workstation (64-bit)
+    tags: [system, virtual-machine]
+    url: http://www.vmware.com/go/tryworkstation-win
+    type: file
+
   - name: VMware Mac OS X Unlocker
     tags: [system, virtual-machine]
     url: http://www.insanelymac.com/forum/files/file/339-unlocker/
