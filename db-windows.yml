@@ -798,3 +798,23 @@ links:
     tags: [system, security, antivirus]
     url: https://downloads.malwarebytes.com/file/mbam_current/
     type: file
+
+  - name: Google Chrome Backup
+    tags: [internet, tools, browser-backup]
+    url: http://www.parhelia-tools.com/products/gcb/download.php?f=gcb.exe
+    type: file
+
+  - name: Google Chrome Backup (Portable)
+    tags: [internet, tools, browser-backup]
+    url: http://www.parhelia-tools.com/products/gcb/download.php?f=gcb.zip
+    type: file
+
+  - name: Transmute
+    tags: [internet, tools, browser-backup]
+    url: http://www.gettransmute.com/download/TransmuteSetup.zip
+    type: file
+
+  - name: Transmute (Portable)
+    tags: [internet, tools, browser-backup]
+    url: http://www.gettransmute.com/download/TransmutePortable.zip
+    type: file
