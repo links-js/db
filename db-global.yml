@@ -227,6 +227,14 @@ links:
     tags: [development, tools, editor]
     url: https://github.com/adobe/brackets/releases/latest
 
+  - name: Sublime Text
+    tags: [development, tools, editor]
+    url: https://www.sublimetext.com/3
+
+  - name: Sublime Text (Dev)
+    tags: [development, tools, editor]
+    url: https://www.sublimetext.com/3dev
+
   - name: VeraCrypt
     tags: [system, security]
     url: https://veracrypt.codeplex.com/releases
