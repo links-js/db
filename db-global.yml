@@ -279,6 +279,3 @@ links:
     tags: [android, file-transfer, remote-control]
     url: https://www.airdroid.com/get.html
 
-  - name: Visual Studio Code
-    tags: [development, tools, editor]
-    url: https://code.visualstudio.com
