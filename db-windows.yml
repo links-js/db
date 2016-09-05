@@ -367,8 +367,20 @@ links:
     url: https://www.google.com/chrome/browser/canary.html
 
   - name: CCleaner
-    tags: [system, cleaning]
+    tags: [system, tools, cleaning, piriform]
     url: https://www.piriform.com/ccleaner/download/standard
+
+  - name: Recuva
+    tags: [system, tools, recovery, piriform]
+    url: https://www.piriform.com/recuva/download/standard
+
+  - name: Defraggler
+    tags: [system, tools, defrag, piriform]
+    url: https://www.piriform.com/defraggler/download/standard
+
+  - name: Speccy
+    tags: [system, tools, info, piriform]
+    url: https://www.piriform.com/speccy/download/standard
 
   - name: LinuxLive
     tags: [system, tools, operating-system]
