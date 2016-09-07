@@ -114,6 +114,11 @@ links:
     type: bookmark
     url: http://freestocks.org/
 
+  - name: Stocky
+    tags: [design, stock-image]
+    type: bookmark
+    url: http://stocky.pro/
+
   - name: The Noun Project
     tags: [design, icon]
     type: bookmark
