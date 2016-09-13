@@ -830,3 +830,23 @@ links:
     tags: [internet, tools, browser-backup]
     url: http://www.gettransmute.com/download/TransmutePortable.zip
     type: file
+
+  - name: cURL
+    tags: [system, tools]
+    url:  https://skanthak.homepage.t-online.de/curl.html
+
+  - name: wget
+    tags: [system, tools]
+    url: https://eternallybored.org/misc/wget/
+
+  - name: gifsicle
+    tags: [system, tools]
+    url: https://eternallybored.org/misc/gifsicle/
+
+  - name: BabelMap
+    tags: [utils, unicode]
+    url: http://www.babelstone.co.uk/Software/BabelMap.html
+
+  - name: BabelPad
+    tags: [utils, unicode]
+    url: http://www.babelstone.co.uk/Software/BabelPad.html
