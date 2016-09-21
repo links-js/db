@@ -871,3 +871,13 @@ links:
     tags: [development, tools, security]
     url: http://windows.metasploit.com/metasploitframework-latest.msi
     type: file
+
+  - name: Microsoft OneNote (32-bit)
+    tags: [tools, office-suite, microsoft]
+    url: https://www.onenote.com/download/win32/x86/en-US
+    type: file
+
+  - name: Microsoft OneNote (64-bit)
+    tags: [tools, office-suite, microsoft]
+    url: https://www.onenote.com/download/win32/x64/en-US
+    type: file

@@ -314,3 +314,15 @@ links:
   - name: Metasploit Framework
     tags: [development, tools, security]
     url: https://www.rapid7.com/products/metasploit/download.jsp
+
+  - name: LibreOffice (Current)
+    tags: [tools, office-suite]
+    url: https://www.libreoffice.org/download/libreoffice-fresh/
+
+  - name: LibreOffice (Stable)
+    tags: [tools, office-suite]
+    url: https://www.libreoffice.org/download/libreoffice-still/
+
+  - name: Apache OpenOffice
+    tags: [tools, office-suite]
+    url: https://www.openoffice.org/download/index.html
