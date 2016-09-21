@@ -866,3 +866,8 @@ links:
   - name: DWIM Perl
     tags: [development, platform, perl]
     url: http://dwimperl.com/windows.html
+
+  - name: Metasploit Framework (Nightly)
+    tags: [development, tools, security]
+    url: http://windows.metasploit.com/metasploitframework-latest.msi
+    type: file

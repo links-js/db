@@ -143,3 +143,7 @@ links:
     tags: [productivity, utils, note-taking, markdown]
     url: https://caret.io/
 
+  - name: Metasploit Framework (Nightly)
+    tags: [development, tools, security]
+    url: http://osx.metasploit.com/metasploitframework-latest.pkg
+    type: file

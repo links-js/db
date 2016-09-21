@@ -167,6 +167,10 @@ links:
     tags: [development, tools, version-control, git]
     url: https://git-annex.branchable.com/install/
 
+  - name: KDiff3
+    tags: [development, tools, version-control, git]
+    url: https://sourceforge.net/projects/kdiff3/files/latest/download
+
   - name: Java
     tags: [development, platform, java]
     url: https://www.java.com/en/download/
@@ -298,3 +302,11 @@ links:
   - name: ActiveState Perl
     tags: [development, platform, perl]
     url: https://www.activestate.com/activeperl/downloads
+
+  - name: OWASP ZAP
+    tags: [development, tools, security]
+    url: https://github.com/zaproxy/zaproxy/wiki/Downloads
+
+  - name: Metasploit Framework
+    tags: [development, tools, security]
+    url: https://www.rapid7.com/products/metasploit/download.jsp
