@@ -850,3 +850,12 @@ links:
   - name: BabelPad
     tags: [utils, unicode]
     url: http://www.babelstone.co.uk/Software/BabelPad.html
+
+  - name: WSUS Offline Update
+    tags: [system, tools, windows, update]
+    url: http://download.wsusoffline.net/
+
+  - name: Cheat Engine
+    tags: [development, tools, memory-editor]
+    url: http://www.cheatengine.org/downloads.php
+
