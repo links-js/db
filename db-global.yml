@@ -290,3 +290,11 @@ links:
   - name: Thunderbird
     tags: [internet, mail]
     url: https://www.mozilla.org/en-US/thunderbird/all/
+
+  - name: Perl
+    tags: [development, platform, perl]
+    url: https://www.perl.org/get.html
+
+  - name: ActiveState Perl
+    tags: [development, platform, perl]
+    url: https://www.activestate.com/activeperl/downloads

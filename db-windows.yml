@@ -859,3 +859,10 @@ links:
     tags: [development, tools, memory-editor]
     url: http://www.cheatengine.org/downloads.php
 
+  - name: Strawberry Perl
+    tags: [development, platform, perl]
+    url: http://strawberryperl.com/
+
+  - name: DWIM Perl
+    tags: [development, platform, perl]
+    url: http://dwimperl.com/windows.html
