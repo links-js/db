@@ -326,3 +326,7 @@ links:
   - name: Apache OpenOffice
     tags: [tools, office-suite]
     url: https://www.openoffice.org/download/index.html
+
+  - name: Spek
+    tags: [multimedia, audio, spectrogram]
+    url: http://spek.cc/
