@@ -496,7 +496,7 @@ links:
 
   - name: NirLauncher
     tags: [system, tools]
-    url: http://launcher.nirsoft.net/download.html
+    url: http://launcher.nirsoft.net/downloads/index.html
 
   - name: ShellExView (32-bit)
     tags: [system, tools, shell]
@@ -880,4 +880,14 @@ links:
   - name: Microsoft OneNote (64-bit)
     tags: [tools, office-suite, microsoft]
     url: https://www.onenote.com/download/win32/x64/en-US
+    type: file
+
+  - name: Cygwin (32-bit)
+    tags: [system, tools, shell]
+    url: https://cygwin.com/setup-x86.exe
+    type: file
+
+  - name: Cygwin (64-bit)
+    tags: [system, tools, shell]
+    url: https://cygwin.com/setup-x86_64.exe
     type: file
