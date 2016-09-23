@@ -891,3 +891,7 @@ links:
     tags: [system, tools, shell]
     url: https://cygwin.com/setup-x86_64.exe
     type: file
+
+  - name: MKVToolNix
+    tags: [multimedia, video, muxing]
+    url: https://www.fosshub.com/MKVToolNix.html
