@@ -833,7 +833,7 @@ links:
 
   - name: cURL
     tags: [system, tools]
-    url:  https://skanthak.homepage.t-online.de/curl.html
+    url: http://www.confusedbycode.com/curl/#downloads
 
   - name: wget
     tags: [system, tools]
@@ -895,3 +895,7 @@ links:
   - name: MKVToolNix
     tags: [multimedia, video, muxing]
     url: https://www.fosshub.com/MKVToolNix.html
+
+  - name: DropIt
+    tags: [utils, file-manager]
+    url: http://www.dropitproject.com/#download
