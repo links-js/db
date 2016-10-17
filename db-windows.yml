@@ -198,7 +198,11 @@ links:
     tags: [multimedia]
     url: http://www.codecguide.com/download_k-lite_codec_pack_mega.htm
 
-  - name: Lame for Windows
+  - name: Lame for Windows (Binary & DLL)
+    tags: [multimedia, audio]
+    url: http://www.rarewares.org/mp3-lame-bundle.php
+
+  - name: Lame for Windows (for Audacity)
     tags: [multimedia, audio]
     url: http://lame.buanzo.org/#lamewindl
 
@@ -755,6 +759,10 @@ links:
     tags: [internet, im, irc]
     url: http://www.mirc.com/get.php
     type: file
+
+  - name: AdiIRC
+    tags: [internet, im, irc]
+    url: https://adiirc.com/download.php
 
   - name: RDG Packer Detector
     tags: [development, tools, detector]
