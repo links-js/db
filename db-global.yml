@@ -123,6 +123,14 @@ links:
     tags: [internet, im, irc]
     url: https://hexchat.github.io/downloads.html
 
+  - name: WeeChat (Stable)
+    tags: [internet, im, irc]
+    url: https://weechat.org/download/stable/
+
+  - name: WeeChat (Devel)
+    tags: [internet, im, irc]
+    url: https://weechat.org/download/devel/
+
   - name: MusicBrainz Picard
     tags: [multimedia, audio, tag-editor]
     url: https://picard.musicbrainz.org/downloads/
