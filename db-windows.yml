@@ -705,6 +705,14 @@ links:
     tags: [development, tools, editor]
     url: https://notepad-plus-plus.org/download/
 
+  - name: Spybot Search & Destroy
+    tags: [system, security, antivirus]
+    url: https://www.safer-networking.org/mirrors/
+
+  - name: Spybot Anti-Beacon
+    tags: [system, security, telemetry]
+    url: https://www.safer-networking.org/spybot-anti-beacon/
+
   - name: VirusTotal Uploader
     tags: [system, security, antivirus]
     url: https://www.virustotal.com/en/documentation/desktop-applications/
