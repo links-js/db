@@ -915,3 +915,15 @@ links:
   - name: DropIt
     tags: [utils, file-manager]
     url: http://www.dropitproject.com/#download
+
+  - name: Directory Opus
+    tags: [utils, file-explorer]
+    url: https://www.gpsoft.com.au/DScripts/download.asp
+
+  - name: xplorer2
+    tags: [utils, file-explorer]
+    url: http://zabkat.com/x2down.htm
+
+  - name: XYplorer
+    tags: [utils, file-explorer]
+    url: https://www.xyplorer.com/download.php
