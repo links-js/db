@@ -285,6 +285,11 @@ links:
     url: http://get.skype.com/go/getskype
     type: file
 
+  - name: DVDVideoSoft Free Video Call Recorder for Skype
+    tags: [multimedia, video, recorder, skype]
+    url: http://icw.dvdvideosoft.net/FreeVideoCallRecorder.exe
+    type: file
+
   - name: Ventrilo
     tags: [internet, voip]
     url: http://ventrilo.com/dlprod.php?id=4
