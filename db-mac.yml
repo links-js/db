@@ -151,3 +151,8 @@ links:
   - name: Microsoft OneNote
     tags: [tools, office-suite, microsoft]
     url: https://itunes.apple.com/us/app/microsoft-onenote/id784801555
+
+  - name: TeamViewer
+    tags: [system, tools, remote-access]
+    url: https://download.teamviewer.com/download/TeamViewer.dmg
+    type: file

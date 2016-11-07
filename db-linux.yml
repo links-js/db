@@ -148,3 +148,18 @@ links:
     tags: [system, virtual-machine]
     url: http://www.vmware.com/go/tryworkstation-linux-64
     type: file
+
+  - name: TeamViewer (deb)
+    tags: [system, tools, remote-access]
+    url: https://download.teamviewer.com/download/teamviewer_i386.deb
+    type: file
+
+  - name: TeamViewer (rpm)
+    tags: [system, tools, remote-access]
+    url: https://download.teamviewer.com/download/teamviewer.i686.rpm
+    type: file
+
+  - name: TeamViewer (tar.xz)
+    tags: [system, tools, remote-access]
+    url: https://download.teamviewer.com/download/teamviewer_i386.tar.xz
+    type: file

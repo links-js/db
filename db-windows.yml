@@ -207,12 +207,12 @@ links:
     url: http://lame.buanzo.org/#lamewindl
 
   - name: PuTTY (32-bit)
-    tags: [system, tools, remote]
+    tags: [system, tools, remote-access]
     url: http://the.earth.li/~sgtatham/putty/latest/x86/putty.zip
     type: file
 
   - name: PuTTY Portable
-    tags: [system, tools, remote]
+    tags: [system, tools, remote-access]
     url: http://portableapps.com/apps/internet/putty_portable
 
   - name: SQLite Database Browser
@@ -649,18 +649,23 @@ links:
     type: file
 
   - name: VNC Viewer (32-bit)
-    tags: [system, tools, remote]
+    tags: [system, tools, remote-access]
     url: http://www.realvnc.com/download/binary/1730/
     type: file
 
   - name: VNC Viewer (64-bit)
-    tags: [system, tools, remote]
+    tags: [system, tools, remote-access]
     url: http://www.realvnc.com/download/binary/1732/
     type: file
 
   - name: TightVNC
-    tags: [system, tools, remote]
+    tags: [system, tools, remote-access]
     url: http://www.tightvnc.com/download.php
+
+  - name: TeamViewer
+    tags: [system, tools, remote-access]
+    url: https://download.teamviewer.com/download/TeamViewer_Setup.exe
+    type: file
 
   - name: WinDirStat
     tags: [system, tools, drive]
