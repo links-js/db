@@ -342,3 +342,7 @@ links:
   - name: MKVToolNix
     tags: [multimedia, video, muxing]
     url: https://mkvtoolnix.download/downloads.html
+
+  - name: CouchDB
+    tags: [development, database, nosql]
+    url: https://couchdb.apache.org/#download

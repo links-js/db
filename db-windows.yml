@@ -548,11 +548,11 @@ links:
     url: http://sourceforge.net/projects/unimediaserver/files/Official%20Releases/Windows/
 
   - name: MongoDB (ZIP)
-    tags: [development, platform, mongodb]
+    tags: [development, database, nosql]
     url: http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-latest.zip
 
   - name: MongoDB (Directory Listing)
-    tags: [development, platform, mongodb]
+    tags: [development, database, nosql]
     url: https://www.mongodb.org/dl/win32/x86_64-2008plus-ssl
 
   - name: CPU-Z
