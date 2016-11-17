@@ -926,6 +926,26 @@ links:
     tags: [utils, file-manager]
     url: http://www.dropitproject.com/#download
 
+  - name: Folders Popup
+    tags: [utils, explorer-helper]
+    url: http://code.jeanlalonde.ca/ahk/folderspopup/folderspopup-setup.exe
+    type: file
+
+  - name: Folders Popup (Portable)
+    tags: [utils, explorer-helper]
+    url: http://code.jeanlalonde.ca/ahk/folderspopup/folderspopup.zip
+    type: file
+
+  - name: Quick Access Popup
+    tags: [utils, explorer-helper]
+    url: http://www.quickaccesspopup.com/download/quickaccesspopup-setup.exe
+    type: file
+
+  - name: Quick Access Popup (Portable)
+    tags: [utils, explorer-helper]
+    url: http://www.quickaccesspopup.com/download/quickaccesspopup.zip
+    type: file
+
   - name: Directory Opus
     tags: [utils, file-explorer]
     url: https://www.gpsoft.com.au/DScripts/download.asp
