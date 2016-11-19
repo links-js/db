@@ -962,3 +962,13 @@ links:
     tags: [internet, vpn]
     url: https://zenmate-windows-update.s3-eu-west-1.amazonaws.com/setup.exe
     type: file
+
+  - name: AutoHotkey (Installer)
+    tags: [development, tools, macro]
+    url: https://autohotkey.com/download/ahk-install.exe
+    type: file
+
+  - name: AutoHotkey (ZIP)
+    tags: [development, tools, macro]
+    url: https://autohotkey.com/download/ahk.zip
+    type: file
