@@ -156,3 +156,8 @@ links:
     tags: [system, tools, remote-access]
     url: https://download.teamviewer.com/download/TeamViewer.dmg
     type: file
+
+  - name: ZenMate VPN
+    tags: [internet, vpn]
+    url: https://macos-update.s3.amazonaws.com/ZenMate_OSX_VPN.dmg
+    type: file

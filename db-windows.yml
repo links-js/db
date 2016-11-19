@@ -957,3 +957,8 @@ links:
   - name: XYplorer
     tags: [utils, file-explorer]
     url: https://www.xyplorer.com/download.php
+
+  - name: ZenMate VPN
+    tags: [internet, vpn]
+    url: https://zenmate-windows-update.s3-eu-west-1.amazonaws.com/setup.exe
+    type: file
