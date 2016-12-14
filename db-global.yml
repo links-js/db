@@ -359,6 +359,10 @@ links:
     tags: [development, database, nosql]
     url: https://couchdb.apache.org/#download
 
+  - name: Rclone
+    tags: [internet, cloud]
+    url: http://rclone.org/downloads/
+
   - name: Bazaar
     tags: [development, version-control]
     url: http://wiki.bazaar.canonical.com/Download
