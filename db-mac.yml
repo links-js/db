@@ -84,6 +84,11 @@ links:
     url: https://go.microsoft.com/fwlink/?LinkID=620882
     type: file
 
+  - name: Visual Studio Code Insiders
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkId=723966
+    type: file
+
   - name: Last.fm Scrobbler
     tags: [multimedia, audio]
     url: http://www.last.fm/download/mac

@@ -56,14 +56,24 @@ links:
     url: https://atom.io/download/windows
     type: file
 
-  - name: Visual Studio Code (Installer)
+  - name: Visual Studio Code
     tags: [development, tools, editor]
     url: https://go.microsoft.com/fwlink/?LinkID=623230
+    type: file
+
+    name: Visual Studio Code Insiders
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkId=723965
     type: file
 
   - name: Visual Studio Code (ZIP)
     tags: [development, tools, editor]
     url: https://go.microsoft.com/fwlink/?LinkID=623231
+    type: file
+
+  - name: Visual Studio Code Insiders (ZIP)
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkID=733265
     type: file
 
   - name: Audacity Portable

@@ -98,9 +98,19 @@ links:
     url: https://go.microsoft.com/fwlink/?LinkID=760868
     type: file
 
+  - name: Visual Studio Code Insiders (.deb)
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkID=760865
+    type: file
+
   - name: Visual Studio Code (.rpm)
     tags: [development, tools, editor]
     url: https://go.microsoft.com/fwlink/?LinkID=760867
+    type: file
+
+  - name: Visual Studio Code Insiders (.rpm)
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkID=760866
     type: file
 
   - name: Visual Studio Code (ZIP)
@@ -108,9 +118,19 @@ links:
     url: https://go.microsoft.com/fwlink/?LinkID=620884
     type: file
 
+  - name: Visual Studio Code Insiders (ZIP)
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkId=723968
+    type: file
+
   - name: Visual Studio Code (32-bit) (.deb)
     tags: [development, tools, editor]
     url: https://go.microsoft.com/fwlink/?LinkID=760680
+    type: file
+
+  - name: Visual Studio Code Insiders (32-bit) (.deb)
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkID=760661
     type: file
 
   - name: Visual Studio Code (32-bit) (.rpm)
@@ -118,9 +138,19 @@ links:
     url: https://go.microsoft.com/fwlink/?LinkID=760681
     type: file
 
+  - name: Visual Studio Code Insiders (32-bit) (.rpm)
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkID=760662
+    type: file
+
   - name: Visual Studio Code (32-bit) (ZIP)
     tags: [development, tools, editor]
     url: https://go.microsoft.com/fwlink/?LinkID=620885
+    type: file
+
+  - name: Visual Studio Code Insiders (32-bit) (ZIP)
+    tags: [development, tools, editor]
+    url: https://go.microsoft.com/fwlink/?LinkId=723969
     type: file
 
   - name: Last.fm Scrobbler
