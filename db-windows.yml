@@ -978,3 +978,19 @@ links:
     tags: [development, tools, macro]
     url: https://autohotkey.com/download/ahk.zip
     type: file
+
+  - name: Google Japanese IME
+    tags: [system, ime]
+    url: https://dl.google.com/japanese-ime/GoogleJapaneseInputSetup.exe
+    type: file
+
+  - name: Google Chinese IME (V2)
+    tags: [system, ime]
+    url: https://dl.google.com/pinyin/v2/GooglePinyinInstaller.exe
+    type: file
+
+  - name: Google Chinese IME (V1)
+    tags: [system, ime]
+    url: https://dl.google.com/pinyin/v1/GooglePinyinInstaller.exe
+    type: file
+
