@@ -143,6 +143,18 @@ links:
     tags: [internet, browser]
     url: https://vivaldi.com/download/
 
+  - name: Google Chrome
+    tags: [internet, browser]
+    url: https://www.google.com/chrome/browser/desktop/index.html
+
+  - name: Google Chrome Beta
+    tags: [internet, browser]
+    url: https://www.google.com/chrome/browser/beta.html
+
+  - name: Gooogle Chrome Canary
+    tags: [internet, browser]
+    url: https://www.google.com/chrome/browser/canary.html
+
   - name: Ventrilo
     tags: [internet, voip]
     url: http://ventrilo.com/download.php

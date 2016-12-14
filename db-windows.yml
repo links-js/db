@@ -371,10 +371,6 @@ links:
     tags: [development, tools, ide, jetbrains]
     url: https://www.jetbrains.com/phpstorm/download/download-thanks.html?platform=windows
 
-  - name: Chrome Canary
-    tags: [internet, browser]
-    url: https://www.google.com/chrome/browser/canary.html
-
   - name: CCleaner
     tags: [system, tools, cleaning, piriform]
     url: https://www.piriform.com/ccleaner/download/standard
