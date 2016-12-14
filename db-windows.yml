@@ -994,3 +994,17 @@ links:
     url: https://dl.google.com/pinyin/v1/GooglePinyinInstaller.exe
     type: file
 
+  - name: Visual Studio 2015 with Update 3 (Enterprise)
+    tags: [development, platform, visual-studio]
+    url: http://download.microsoft.com/download/8/4/3/843ec655-1b67-46c3-a7a4-10a1159cfa84/vs2015.3.ent_enu.iso
+    type: file
+
+  - name: Visual Studio 2015 with Update 3 (Professional)
+    tags: [development, platform, visual-studio]
+    url: http://download.microsoft.com/download/e/b/c/ebc2c43f-3821-4a0b-82b1-d05368af1604/vs2015.3.pro_enu.iso
+    type: file
+
+  - name: Visual Studio 2015 with Update 3 (Community)
+    tags: [development, platform, visual-studio]
+    url: http://download.microsoft.com/download/b/e/d/bedddfc4-55f4-4748-90a8-ffe38a40e89f/vs2015.3.com_enu.iso
+    type: file
