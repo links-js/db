@@ -358,3 +358,7 @@ links:
   - name: CouchDB
     tags: [development, database, nosql]
     url: https://couchdb.apache.org/#download
+
+  - name: Bazaar
+    tags: [development, version-control]
+    url: http://wiki.bazaar.canonical.com/Download
