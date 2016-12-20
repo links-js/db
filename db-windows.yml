@@ -56,6 +56,11 @@ links:
     url: https://atom.io/download/windows
     type: file
 
+  - name: Atom Beta
+    tags: [development, tools, editor]
+    url: https://atom.io/download/windows?channel=beta
+    type: file
+
   - name: Visual Studio Code
     tags: [development, tools, editor]
     url: https://go.microsoft.com/fwlink/?LinkID=623230

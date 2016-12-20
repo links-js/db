@@ -93,6 +93,11 @@ links:
     url: https://atom.io/download/deb
     type: file
 
+  - name: Atom Beta
+    tags: [development, tools, editor]
+    url: https://atom.io/download/deb?channel=beta
+    type: file
+
   - name: Visual Studio Code (.deb)
     tags: [development, tools, editor]
     url: https://go.microsoft.com/fwlink/?LinkID=760868
