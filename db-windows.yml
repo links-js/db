@@ -390,17 +390,33 @@ links:
     tags: [system, tools, cleaning, piriform]
     url: https://www.piriform.com/ccleaner/download/standard
 
+  - name: CCleaner (Portable)
+    tags: [system, tools, cleaning, piriform]
+    url: https://www.piriform.com/ccleaner/download/portable
+
   - name: Recuva
     tags: [system, tools, recovery, piriform]
     url: https://www.piriform.com/recuva/download/standard
+
+  - name: Recuva (Portable)
+    tags: [system, tools, recovery, piriform]
+    url: https://www.piriform.com/recuva/download/portable
 
   - name: Defraggler
     tags: [system, tools, defrag, piriform]
     url: https://www.piriform.com/defraggler/download/standard
 
+  - name: Defraggler (Portable)
+    tags: [system, tools, defrag, piriform]
+    url: https://www.piriform.com/defraggler/download/portable
+
   - name: Speccy
     tags: [system, tools, info, piriform]
     url: https://www.piriform.com/speccy/download/standard
+
+  - name: Speccy (Portable)
+    tags: [system, tools, info, piriform]
+    url: https://www.piriform.com/speccy/download/portable
 
   - name: LinuxLive
     tags: [system, tools, operating-system]
