@@ -366,3 +366,7 @@ links:
   - name: Bazaar
     tags: [development, version-control]
     url: http://wiki.bazaar.canonical.com/Download
+
+  - name: YACReader
+    tags: [utils, comic-book-reader]
+    url: http://www.yacreader.com/downloads
