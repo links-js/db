@@ -1029,3 +1029,11 @@ links:
     tags: [development, platform, visual-studio]
     url: http://download.microsoft.com/download/b/e/d/bedddfc4-55f4-4748-90a8-ffe38a40e89f/vs2015.3.com_enu.iso
     type: file
+
+  - name: CDisplayEx
+    tags: [utils, comic-book-reader]
+    url: http://www.cdisplayex.com/downloads
+
+  - name: ComicRack
+    tags: [utils, comic-book-reader]
+    url: http://comicrack.cyolito.com/downloads
