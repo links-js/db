@@ -370,3 +370,7 @@ links:
   - name: YACReader
     tags: [utils, comic-book-reader]
     url: http://www.yacreader.com/downloads
+
+  - name: HTTrack
+    tags: [internet, tools, website-copier]
+    url: http://www.httrack.com/page/2/

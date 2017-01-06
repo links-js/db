@@ -1037,3 +1037,8 @@ links:
   - name: ComicRack
     tags: [utils, comic-book-reader]
     url: http://comicrack.cyolito.com/downloads
+
+  - name: Teleport Pro (Shareware)
+    tags: [internet, tools, website-copier]
+    url: http://www.tenmax.com/Teleport_Pro_Installer.exe
+    type: file
