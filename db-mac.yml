@@ -18,6 +18,11 @@ links:
     url: http://get.skype.com/go/getskype-macosx
     type: file
 
+  - name: Discord
+    tags: [internet, voip, im]
+    url: https://discordapp.com/api/download?platform=osx
+    type: file
+
   - name: qTox
     tags: [internet, voip]
     url: https://github.com/RowenStipe/qTox-OSX/releases/latest

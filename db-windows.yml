@@ -300,6 +300,11 @@ links:
     url: http://get.skype.com/go/getskype
     type: file
 
+  - name: Discord
+    tags: [internet, voip, im]
+    url: https://discordapp.com/api/download?platform=win
+    type: file
+
   - name: DVDVideoSoft Free Video Call Recorder for Skype
     tags: [multimedia, video, recorder, skype]
     url: http://icw.dvdvideosoft.net/FreeVideoCallRecorder.exe
