@@ -337,6 +337,17 @@ links:
   - name: KakaoTalk
     tags: [internet, im, voip]
     url: http://app.pc.kakao.com/talk/win32/KakaoTalk_Setup.exe
+    type: file
+
+  - name: Telegram
+    tags: [internet, im, voip]
+    url: https://telegram.org/dl/desktop/win
+    type: file
+
+  - name: Telegram (Portable)
+    tags: [internet, im, voip]
+    url: https://telegram.org/dl/desktop/win_portable
+    type: file
 
   - name: Caffeine
     tags: [system, tools, sleep]

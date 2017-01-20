@@ -26,6 +26,16 @@ links:
     tags: [internet, im]
     url: http://update.gitter.im/linux64/latest
 
+  - name: Telegram (32-bit)
+    tags: [internet, im, voip]
+    url: https://telegram.org/dl/desktop/linux32
+    type: file
+
+  - name: Telegram (64-bit)
+    tags: [internet, im, voip]
+    url: https://telegram.org/dl/desktop/linux
+    type: file
+
   - name: VNC Viewer (32-bit)
     tags: [system, tools, remote]
     url: http://www.realvnc.com/download/binary/1736/

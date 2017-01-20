@@ -34,6 +34,11 @@ links:
     tags: [internet, im, voip]
     url: https://itunes.apple.com/en/app/kakaotog/id869223134
 
+  - name: Telegram
+    tags: [internet, im, voip]
+    url: https://telegram.org/dl/desktop/mac
+    type: file
+
   - name: VNC Viewer
     tags: [system, tools, remote]
     url: http://www.realvnc.com/download/binary/1734/
