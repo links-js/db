@@ -582,6 +582,10 @@ links:
     tags: [development, tools, packet]
     url: https://www.donationcoder.com/Software/Mouser/urlsnooper/
 
+  - name: WinPcap
+    tags: [system, tools, packet]
+    url: https://www.winpcap.org/install/
+
   - name: F.lux
     tags: [utils, screen]
     url: https://justgetflux.com/flux-setup.exe
