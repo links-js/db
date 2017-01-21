@@ -1079,3 +1079,13 @@ links:
   - name: Paint.NET
     tags: [multimedia, graphics, editor]
     url: http://www.dotpdn.com/downloads/pdn.html
+
+  - name: Advanced Renamer (Installer)
+    tags: [utils, rename]
+    url: https://www.advancedrenamer.com/down/?obj=10
+    type: file
+
+  - name: Advanced Renamer (ZIP)
+    tags: [utils, rename]
+    url: https://www.advancedrenamer.com/down/?obj=12
+    type: file
