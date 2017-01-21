@@ -1063,3 +1063,7 @@ links:
     tags: [utils, webcam]
     url: http://download2.manycams.com/ManyCamSetup.exe
     type: file
+
+  - name: WebcamMax
+    tags: [utils, webcam]
+    url: http://www.webcammax.com/download.html
