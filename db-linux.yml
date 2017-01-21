@@ -213,3 +213,7 @@ links:
     tags: [system, tools, remote-access]
     url: https://download.teamviewer.com/download/teamviewer_i386.tar.xz
     type: file
+
+  - name: GIMP (Directory Listing)
+    tags: [multimedia, graphics, editor]
+    url: https://download.gimp.org/pub/gimp/stable/

@@ -1067,3 +1067,7 @@ links:
   - name: WebcamMax
     tags: [utils, webcam]
     url: http://www.webcammax.com/download.html
+
+  - name: GIMP (Directory Listing)
+    tags: [multimedia, graphics, editor]
+    url: https://download.gimp.org/pub/gimp/stable/windows/
