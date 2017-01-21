@@ -1058,3 +1058,8 @@ links:
     tags: [internet, tools, website-copier]
     url: http://www.tenmax.com/Teleport_Pro_Installer.exe
     type: file
+
+  - name: ManyCam
+    tags: [utils, webcam]
+    url: http://download2.manycams.com/ManyCamSetup.exe
+    type: file

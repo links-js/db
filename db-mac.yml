@@ -181,3 +181,8 @@ links:
     tags: [internet, vpn]
     url: https://macos-update.s3.amazonaws.com/ZenMate_OSX_VPN.dmg
     type: file
+
+  - name: ManyCam
+    tags: [utils, webcam]
+    url: http://download2.manycams.com/ManyCam.dmg
+    type: file
