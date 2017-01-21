@@ -1071,3 +1071,7 @@ links:
   - name: GIMP (Directory Listing)
     tags: [multimedia, graphics, editor]
     url: https://download.gimp.org/pub/gimp/stable/windows/
+
+  - name: Paint.NET
+    tags: [multimedia, graphics, editor]
+    url: http://www.dotpdn.com/downloads/pdn.html
