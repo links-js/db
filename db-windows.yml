@@ -955,6 +955,16 @@ links:
     url: https://www.onenote.com/download/win32/x64/en-US
     type: file
 
+  - name: Onetastic for OneNote (32-bit)
+    tags: [tools, office-suite, microsoft]
+    url: https://getonetastic.com/downloadFile&fv=0&file=OnetasticInstaller.x86.zip
+    type: file
+
+  - name: Onetastic for OneNote (64-bit)
+    tags: [tools, office-suite, microsoft]
+    url: https://getonetastic.com/downloadFile&fv=0&file=OnetasticInstaller.x64.zip
+    type: file
+
   - name: Cygwin (32-bit)
     tags: [system, tools, shell]
     url: https://cygwin.com/setup-x86.exe
