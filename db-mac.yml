@@ -190,3 +190,8 @@ links:
   - name: GIMP (Directory Listing)
     tags: [multimedia, graphics, editor]
     url: https://download.gimp.org/pub/gimp/stable/osx/
+
+  - name: Brave
+    tags: [internet, browser]
+    url: https://laptop-updates.brave.com/latest/osx
+    type: file

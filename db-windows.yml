@@ -510,6 +510,16 @@ links:
     tags: [internet, voip]
     url: http://www.mumble.com/support/mumble-install-problems-on-windows.php
 
+  - name: Brave (32-bit)
+    tags: [internet, browser]
+    url: https://laptop-updates.brave.com/latest/winia32
+    type: file
+
+  - name: Brave (64-bit)
+    tags: [internet, browser]
+    url: https://laptop-updates.brave.com/latest/winx64
+    type: file
+
   - name: Firefox Developer Edition (Portable)
     tags: [internet, browser]
     url: http://portableapps.com/apps/internet/firefox-developer-portable

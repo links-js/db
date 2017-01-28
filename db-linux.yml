@@ -217,3 +217,13 @@ links:
   - name: GIMP (Directory Listing)
     tags: [multimedia, graphics, editor]
     url: https://download.gimp.org/pub/gimp/stable/
+
+  - name: Brave (Debian)
+    tags: [internet, browser]
+    url: https://laptop-updates.brave.com/latest/debian64
+    type: file
+
+  - name: Brave (Fedora)
+    tags: [internet, browser]
+    url: https://laptop-updates.brave.com/latest/fedora64
+    type: file
