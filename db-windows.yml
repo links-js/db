@@ -143,6 +143,10 @@ links:
     tags: [development, tools, console]
     url: https://github.com/Maximus5/ConEmu/releases/latest
 
+  - name: Cmder
+    tags: [development, tools, console]
+    url: https://github.com/bliker/cmder/releases/latest
+
   - name: Git
     tags: [development, tools, version-control, git]
     url: https://git-scm.com/download/win
