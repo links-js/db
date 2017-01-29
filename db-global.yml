@@ -71,6 +71,14 @@ links:
     tags: [system, linux]
     url: https://www.kali.org/downloads/
 
+  - name: Boot Repair Disk
+    tags: [system, linux]
+    url: http://sourceforge.net/projects/boot-repair-cd/files/latest/download
+
+  - name: GParted
+    tags: [system, linux]
+    url: http://sourceforge.net/projects/gparted/files/gparted-live-stable/
+
   - name: VLC
     tags: [multimedia, video, player]
     url: http://download.videolan.org/pub/videolan/vlc/
