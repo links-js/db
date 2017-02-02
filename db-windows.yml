@@ -1017,6 +1017,16 @@ links:
     url: http://www.quickaccesspopup.com/download/quickaccesspopup.zip
     type: file
 
+  - name: SyMenu (ZIP)
+    tags: [utils, explorer-helper]
+    url: http://www.ugmfree.it/Download/SyMenu/SyMenu.zip
+    type: file
+
+  - name: SyMenu (EXE)
+    tags: [utils, explorer-helper]
+    url: http://www.ugmfree.it/Download/SyMenu/SyMenuPackage.exe
+    type: file
+
   - name: Directory Opus
     tags: [utils, file-explorer]
     url: https://www.gpsoft.com.au/DScripts/download.asp
