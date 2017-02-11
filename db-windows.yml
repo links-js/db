@@ -113,13 +113,18 @@ links:
     type: file
 
   - name: Bvckup 1
-    tags: [system, backup]
+    tags: [utils, backup]
     url: http://bvckup.com/download
     type: file
 
   - name: Bvckup 2
-    tags: [system, backup]
+    tags: [utils, backup]
     url: https://www.bvckup2.com/get
+    type: file
+
+  - name: SyncBackPro
+    tags: [utils, backup]
+    url: https://www.2brightsparks.com/assets/software/SyncBackPro_Setup.exe
     type: file
 
   - name: CDBurnerXP
