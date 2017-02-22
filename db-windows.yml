@@ -230,9 +230,18 @@ links:
     tags: [multimedia, audio]
     url: http://lame.buanzo.org/#lamewindl
 
-  - name: PuTTY (32-bit)
+  - name: PuTTY
     tags: [system, tools, remote-access]
-    url: http://the.earth.li/~sgtatham/putty/latest/x86/putty.zip
+    url: http://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+  - name: PuTTY (32-bit) (ZIP)
+    tags: [system, tools, remote-access]
+    url: https://the.earth.li/~sgtatham/putty/latest/w32/putty.zip
+    type: file
+
+  - name: PuTTY (64-bit) (ZIP)
+    tags: [system, tools, remote-access]
+    url: https://the.earth.li/~sgtatham/putty/latest/w64/putty.zip
     type: file
 
   - name: PuTTY Portable
