@@ -215,6 +215,14 @@ links:
     tags: [internet, torrent]
     url: http://www.fosshub.com/qBittorrent.html
 
+  - name: Tixati
+    tags: [internet, torrent]
+    url: https://www.tixati.com/download/
+
+  - name: Tixati (Portable)
+    tags: [internet, torrent]
+    url: https://www.tixati.com/download/portable.html
+
   - name: Deluge
     tags: [internet, torrent]
     url: http://dev.deluge-torrent.org/wiki/Download
