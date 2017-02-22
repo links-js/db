@@ -248,6 +248,14 @@ links:
     tags: [system, tools, remote-access]
     url: http://portableapps.com/apps/internet/putty_portable
 
+  - name: KiTTY
+    tags: [system, tools, remote-access]
+    url: https://www.fosshub.com/KiTTY.html/kitty.exe
+
+  - name: KiTTY Portable
+    tags: [system, tools, remote-access]
+    url: https://www.fosshub.com/KiTTY.html/kitty_portable.exe
+
   - name: SQLite Database Browser
     tags: [development, tools, sqlite]
     url: https://github.com/sqlitebrowser/sqlitebrowser/releases/latest
