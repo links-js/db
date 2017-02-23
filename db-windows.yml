@@ -1145,3 +1145,7 @@ links:
     tags: [utils, rename]
     url: https://www.advancedrenamer.com/down/?obj=12
     type: file
+
+  - name: VLC Portable
+    tags: [multimedia, video, audio, player]
+    url: http://portableapps.com/apps/music_video/vlc_portable

@@ -80,7 +80,7 @@ links:
     url: http://sourceforge.net/projects/gparted/files/gparted-live-stable/
 
   - name: VLC
-    tags: [multimedia, video, player]
+    tags: [multimedia, video, audio, player]
     url: http://download.videolan.org/pub/videolan/vlc/
 
   - name: Livestreamer
