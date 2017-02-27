@@ -956,9 +956,17 @@ links:
     tags: [utils, unicode]
     url: http://www.babelstone.co.uk/Software/BabelMap.html
 
+  - name: BabelMap Portable
+    tags: [utils, unicode]
+    url: http://portableapps.com/apps/utilities/babelmap-portable
+
   - name: BabelPad
     tags: [utils, unicode]
     url: http://www.babelstone.co.uk/Software/BabelPad.html
+
+  - name: BabelPad Portable
+    tags: [utils, unicode]
+    url: http://portableapps.com/apps/office/babelpad-portable
 
   - name: WSUS Offline Update
     tags: [system, tools, windows, update]
