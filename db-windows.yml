@@ -1157,3 +1157,13 @@ links:
   - name: VLC Portable
     tags: [multimedia, video, audio, player]
     url: http://portableapps.com/apps/music_video/vlc_portable
+
+  - name: Sublight
+    tags: [multimedia, video, subtitle, movie, tv-show]
+    url: http://www.sublight.me/Downloads/Sublight.Installer.exe
+    type: file
+
+  - name: Sublight (Portable)
+    tags: [multimedia, video, subtitle, movie, tv-show]
+    url: http://www.sublight.me/Downloads/Sublight.Portable.zip
+    type: file
