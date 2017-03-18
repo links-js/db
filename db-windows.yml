@@ -1167,3 +1167,7 @@ links:
     tags: [multimedia, video, subtitle, movie, tv-show]
     url: http://www.sublight.me/Downloads/Sublight.Portable.zip
     type: file
+
+  - name: Subtitle Edit
+    tags: [multimedia, video, subtitle, editor]
+    url: https://github.com/SubtitleEdit/subtitleedit/releases/latest
