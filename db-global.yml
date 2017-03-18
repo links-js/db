@@ -11,6 +11,14 @@ links:
     tags: [development, platform, erlang]
     url: http://elixir-lang.org/install.html
 
+  - name: Julia
+    tags: [development, platform, julia]
+    url: http://julialang.org/downloads/
+
+  - name: Scala
+    tags: [development, platform, scala]
+    url: https://www.scala-lang.org/download/
+
   - name: SQLite
     tags: [development, platform, sqlite]
     url: https://www.sqlite.org/download.html
