@@ -287,6 +287,10 @@ links:
     tags: [development, tools, editor]
     url: https://www.sublimetext.com/3dev
 
+  - name: CudaText
+    tags: [development, tools, editor]
+    url: http://uvviewsoft.com/cudatext/files/
+
   - name: VeraCrypt
     tags: [system, security]
     url: https://veracrypt.codeplex.com/releases
