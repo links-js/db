@@ -402,3 +402,11 @@ links:
   - name: HTTrack
     tags: [internet, tools, website-copier]
     url: http://www.httrack.com/page/2/
+
+  - name: namebench
+    tags: [internet, tools, dns]
+    url: https://code.google.com/archive/p/namebench/downloads
+
+  - name: QuickHash
+    tags: [utils, hash]
+    url: http://quickhash-gui.org/downloads/
