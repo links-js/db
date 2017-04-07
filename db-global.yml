@@ -410,3 +410,11 @@ links:
   - name: QuickHash
     tags: [utils, hash]
     url: http://quickhash-gui.org/downloads/
+
+  - name: I2P
+    tags: [internet, p2p]
+    url: https://geti2p.net/en/download
+
+  - name: RetroShare
+    tags: [internet, p2p]
+    url: http://retroshare.net/downloads.html
