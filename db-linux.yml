@@ -227,3 +227,13 @@ links:
     tags: [internet, browser]
     url: https://laptop-updates.brave.com/latest/fedora64
     type: file
+
+  - name: ZeroNet (32-bit)
+    tags: [internet, p2p]
+    url: https://github.com/HelloZeroNet/ZeroBundle/raw/master/dist/ZeroBundle-linux32.tar.gz
+    type: file
+
+  - name: ZeroNet (64-bit)
+    tags: [internet, p2p]
+    url: https://github.com/HelloZeroNet/ZeroBundle/raw/master/dist/ZeroBundle-linux64.tar.gz
+    type: file

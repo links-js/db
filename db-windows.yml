@@ -1175,3 +1175,8 @@ links:
   - name: Subtitle Edit
     tags: [multimedia, video, subtitle, editor]
     url: https://github.com/SubtitleEdit/subtitleedit/releases/latest
+
+  - name: ZeroNet
+    tags: [internet, p2p]
+    url: https://github.com/HelloZeroNet/ZeroNet-win/archive/dist/ZeroNet-win.zip
+    type: file
