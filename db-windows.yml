@@ -696,10 +696,6 @@ links:
     tags: [internet, torrent]
     url: https://sites.google.com/site/ultimasites/bencode-editor#download
 
-  - name: SpeedCrunch
-    tags: [utils, scientific]
-    url: http://www.speedcrunch.org/
-
   - name: Graph
     tags: [utils, scientific]
     url: https://www.padowan.dk/download/

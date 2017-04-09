@@ -418,3 +418,7 @@ links:
   - name: RetroShare
     tags: [internet, p2p]
     url: http://retroshare.net/downloads.html
+
+  - name: SpeedCrunch
+    tags: [utils, scientific]
+    url: http://www.speedcrunch.org/download.html
