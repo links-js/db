@@ -422,3 +422,7 @@ links:
   - name: SpeedCrunch
     tags: [utils, scientific]
     url: http://www.speedcrunch.org/download.html
+
+  - name: WinRAR
+    tags: [utils, zip]
+    url: http://www.rarlab.com/download.htm

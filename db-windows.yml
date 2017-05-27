@@ -717,10 +717,6 @@ links:
     url: http://mirrors.jenkins-ci.org/windows/latest
     type: file
 
-  - name: 7-Zip Portable
-    tags: [utils, zip]
-    url: http://portableapps.com/apps/utilities/7-zip_portable
-
   - name: Steam
     tags: [gaming]
     url: https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe
@@ -1180,3 +1176,23 @@ links:
     tags: [internet, p2p]
     url: https://github.com/HelloZeroNet/ZeroNet-win/archive/dist/ZeroNet-win.zip
     type: file
+
+  - name: 7-Zip
+    tags: [utils, zip]
+    url: http://7-zip.org/download.html
+
+  - name: 7-Zip Portable
+    tags: [utils, zip]
+    url: http://portableapps.com/apps/utilities/7-zip_portable
+
+  - name: PeaZip (32-bit)
+    tags: [utils, zip]
+    url: http://www.peazip.org/download-installer-p-windows.html
+
+  - name: PeaZip (64-bit)
+    tags: [utils, zip]
+    url: http://www.peazip.org/peazip-64bit.html
+
+  - name: PeaZip (Portable)
+    tags: [utils, zip]
+    url: http://www.peazip.org/peazip-portable.html

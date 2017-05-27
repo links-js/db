@@ -237,3 +237,7 @@ links:
     tags: [internet, p2p]
     url: https://github.com/HelloZeroNet/ZeroBundle/raw/master/dist/ZeroBundle-linux64.tar.gz
     type: file
+
+  - name: PeaZip
+    tags: [utils, zip]
+    url: http://www.peazip.org/peazip-linux.html
