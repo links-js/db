@@ -127,6 +127,16 @@ links:
     url: https://www.2brightsparks.com/assets/software/SyncBackPro_Setup.exe
     type: file
 
+  - name: Syncovery (32-bit)
+    tags: [utils, backup]
+    url: https://www.syncovery.com/release/SyncoverySetup.exe
+    type: file
+
+  - name: Syncovery (64-bit)
+    tags: [utils, backup]
+    url: https://www.syncovery.com/release/Syncovery64Setup.exe
+    type: file
+
   - name: CDBurnerXP
     tags: [tools, cd]
     url: https://cdburnerxp.se/downloadsetup.exe

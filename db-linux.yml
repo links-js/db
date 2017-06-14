@@ -241,3 +241,7 @@ links:
   - name: PeaZip
     tags: [utils, zip]
     url: http://www.peazip.org/peazip-linux.html
+
+  - name: Syncovery
+    tags: [utils, backup]
+    url: https://www.syncovery.com/download/linux/
