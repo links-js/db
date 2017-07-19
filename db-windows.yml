@@ -284,6 +284,22 @@ links:
     tags: [utils, search]
     url: http://www.voidtools.com/downloads/
 
+  - name: UltraSearch (32-bit) (Setup)
+    tags: [utils, search]
+    url: http://www.jam-software.com/ultrasearch/UltraSearch-x86-Setup.exe
+
+  - name: UltraSearch (32-bit) (Portable)
+    tags: [utils, search]
+    url: http://www.jam-software.com/ultrasearch/UltraSearch-x86.zip
+
+  - name: UltraSearch (64-bit) (Setup)
+    tags: [utils, search]
+    url: http://www.jam-software.com/ultrasearch/UltraSearch-x64-Setup.exe
+
+  - name: UltraSearch (64-bit) (Portable)
+    tags: [utils, search]
+    url: http://www.jam-software.com/ultrasearch/UltraSearch-x64.zip
+
   - name: TechSmith SnagIt
     tags: [multimedia, graphics, screenshot]
     url: http://download.techsmith.com/snagit/enu/snagit.exe
@@ -702,6 +718,10 @@ links:
     tags: [utils, mounting]
     url: http://static.slysoft.com/SetupVirtualCloneDrive.exe
 
+  - name: DAEMON Tools Lite
+    tags: [tools, mounting]
+    url: http://www.disk-tools.com/download/daemon
+
   - name: qBittorrent (Portable)
     tags: [internet, torrent]
     url: http://portableapps.com/apps/internet/qbittorrent_portable
@@ -776,6 +796,16 @@ links:
   - name: Heroku Toolbelt
     tags: [development, platform, heroku]
     url: https://s3.amazonaws.com/assets.heroku.com/heroku-toolbelt/heroku-toolbelt.exe
+    type: file
+
+  - name: Heroku CLI (32-bit)
+    tags: [development, platform, heroku]
+    url: https://cli-assets.heroku.com/branches/v6/heroku-windows-386.exe
+    type: file
+
+  - name: Heroku CLI (64-bit)
+    tags: [development, platform, heroku]
+    url: https://cli-assets.heroku.com/branches/v6/heroku-windows-amd64.exe
     type: file
 
   - name: Google Earth
@@ -1206,3 +1236,4 @@ links:
   - name: PeaZip (Portable)
     tags: [utils, zip]
     url: http://www.peazip.org/peazip-portable.html
+
