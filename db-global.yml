@@ -203,6 +203,10 @@ links:
     tags: [development, tools, ide]
     url: http://www.aptana.com/products/studio3/download.html
 
+  - name: Code::Blocks
+    tags: [development, tools, ide]
+    url: http://www.codeblocks.org/downloads/26
+
   - name: Git Annex
     tags: [development, tools, version-control, git]
     url: https://git-annex.branchable.com/install/
@@ -244,8 +248,12 @@ links:
     url: http://plorkyeran.com/aegisub/
 
   - name: Nginx
-    tags: [development, server]
+    tags: [development, server, nginx]
     url: http://nginx.org/en/download.html
+
+  - name: OpenResty
+    tags: [development, server, nginx]
+    url: https://openresty.org/en/download.html
 
   - name: Apache
     tags: [development, server]
