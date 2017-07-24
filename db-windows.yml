@@ -1246,3 +1246,23 @@ links:
     tags: [system, tools, data-recovery]
     url: http://download.easeus.com/trial/drw_trial.exe
     type: file
+
+  - name: SweetScape 010 Editor (32-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorWin32Installer.exe
+    type: file
+
+  - name: SweetScape 010 Editor (64-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorWin64Installer.exe
+    type: file
+
+  - name: SweetScape 010 Editor (Portable) (32-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorWin32Portable.exe
+    type: file
+
+  - name: SweetScape 010 Editor (Portable) (64-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorWin64Portable.exe
+    type: file

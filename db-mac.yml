@@ -215,3 +215,13 @@ links:
     tags: [system, tools, data-recovery]
     url: http://download.easeus.com/trial/mac_drw_trial.dmg
     type: file
+
+  - name: SweetScape 010 Editor (32-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorMac32Installer.dmg
+    type: file
+
+  - name: SweetScape 010 Editor (64-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorMac64Installer.dmg
+    type: file

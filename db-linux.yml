@@ -245,3 +245,13 @@ links:
   - name: Syncovery
     tags: [utils, backup]
     url: https://www.syncovery.com/download/linux/
+
+  - name: SweetScape 010 Editor (32-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorLinux32Installer.tar.gz
+    type: file
+
+  - name: SweetScape 010 Editor (64-bit)
+    tags: [development, tools, editor]
+    url: http://sweetscape.com/download/010EditorLinux64Installer.tar.gz
+    type: file
