@@ -205,3 +205,13 @@ links:
     tags: [utils, backup]
     url: https://www.syncovery.com/release/SyncoveryMac.dmg
     type: file
+
+  - name: EASEUS Data Recovery Wizard (Free)
+    tags: [system, tools, data-recovery]
+    url: http://download.easeus.com/free/mac_drw_free.dmg
+    type: file
+
+  - name: EASEUS Data Recovery Wizard (Trial)
+    tags: [system, tools, data-recovery]
+    url: http://download.easeus.com/trial/mac_drw_trial.dmg
+    type: file

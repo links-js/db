@@ -459,11 +459,11 @@ links:
     type: file
 
   - name: Recuva
-    tags: [system, tools, recovery, piriform]
+    tags: [system, tools, data-recovery, piriform]
     url: https://www.piriform.com/recuva/download/standard
 
   - name: Recuva (Portable)
-    tags: [system, tools, recovery, piriform]
+    tags: [system, tools, data-recovery, piriform]
     url: https://www.piriform.com/recuva/download/portable/downloadfile
     type: file
 
@@ -1237,3 +1237,12 @@ links:
     tags: [utils, zip]
     url: http://www.peazip.org/peazip-portable.html
 
+  - name: EASEUS Data Recovery Wizard (Free)
+    tags: [system, tools, data-recovery]
+    url: http://download.easeus.com/free/drw_free.exe
+    type: file
+
+  - name: EASEUS Data Recovery Wizard (Trial)
+    tags: [system, tools, data-recovery]
+    url: http://download.easeus.com/trial/drw_trial.exe
+    type: file
