@@ -555,7 +555,7 @@ links:
 
   - name: Mumble (Portable)
     tags: [internet, voip]
-    url: http://www.mumble.com/support/mumble-install-problems-on-windows.php
+    url: https://www.mumble.com/support/mumble-install-problems-on-windows.php
 
   - name: Brave (32-bit)
     tags: [internet, browser]
@@ -1265,4 +1265,29 @@ links:
   - name: SweetScape 010 Editor (Portable) (64-bit)
     tags: [development, tools, editor]
     url: http://sweetscape.com/download/010EditorWin64Portable.exe
+    type: file
+
+  - name: WSCC (Portable) (32-bit)
+    tags: [system, tools]
+    url: https://www.kls-soft.com/downloads/wscc.zip
+    type: file
+
+  - name: WSCC (Portable) (64-bit)
+    tags: [system, tools]
+    url: https://www.kls-soft.com/downloads/wscc_x64.zip
+    type: file
+
+  - name: WSCC (32-bit)
+    tags: [system, tools]
+    url: https://www.kls-soft.com/downloads/wscc_setup.exe
+    type: file
+
+  - name: WSCC (64-bit)
+    tags: [system, tools]
+    url: https://www.kls-soft.com/downloads/wscc_x64_setup.exe
+    type: file
+
+  - name: WSCC (PortableApps)
+    tags: [system, tools]
+    url: https://www.kls-soft.com/downloads/wsccportable.paf.exe
     type: file
