@@ -127,6 +127,14 @@ links:
     tags: [development, platform, nodejs]
     url: https://nodejs.org/download/release/latest/
 
+  - name: Yarn (v1, Classic)
+    tags: [development, platform, nodejs]
+    url: https://classic.yarnpkg.com/en/docs/install
+
+  - name: Yarn (v2, Berry)
+    tags: [development, platform, nodejs]
+    url: https://yarnpkg.com/getting-started/install
+
   - name: Mumble
     tags: [internet, voip]
     url: http://www.mumble.com/mumble-download.php
