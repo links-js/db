@@ -442,3 +442,11 @@ links:
   - name: GIMP (Development)
     tags: [multimedia, graphics, editor]
     url: https://www.gimp.org/downloads/devel/
+
+  - name: Pandoc
+    tags: [utils, converter]
+    url: https://github.com/jgm/pandoc/releases/latest
+
+  - name: Pandoc (Install Guide)
+    tags: [utils, converter]
+    url: https://pandoc.org/installing.html
